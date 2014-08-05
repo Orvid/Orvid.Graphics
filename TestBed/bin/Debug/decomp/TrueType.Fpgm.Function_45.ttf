@@ -1,0 +1,20 @@
+FDef
+    Pop[](SyntheticStack)
+    ComplexIf(SyntheticStack <= 128)
+        GPV[]->IL
+        Abs[]((F26Dot6)ILStack)->IL
+        Swap[](ILStack, ILStack)->IL
+        Abs[]((F26Dot6)ILStack)->IL
+        Max[](ILStack, ILStack)->IL
+        Div[]((F26Dot6)8192, (F26Dot6)ILStack)->Synth
+    Else
+        Synth-LoadInt(2)->Synth
+        {
+            0,
+            64,
+        }
+        Call[](47)
+    EIf
+    Add[]((F26Dot6)2, (F26Dot6)SyntheticStack)->Synth
+EndF
+Synth-Return->Synth

@@ -1,0 +1,34 @@
+FDef
+    SVTCA[1]
+    MPPEM[]->IL
+    GTEQ[](ILStack, SyntheticStack)->IL
+    Swap[](ILStack, SyntheticStack)->IL
+    MPPEM[]->IL
+    LTEQ[](ILStack, ILStack)->IL
+    And[](ILStack, ILStack)->Synth
+    CIndex[](2)->Synth
+    CIndex[](4)->Synth
+    CIndex[](6)->Synth
+    MD[0](SyntheticStack, SyntheticStack)->IL
+    Swap[](ILStack, SyntheticStack)->IL
+    RCvt[](ILStack)->IL(As F26Dot6)
+    RTG[]
+    Round[1](ILStack)->IL
+    GT[](ILStack, ILStack)->IL
+    And[](ILStack, SyntheticStack)->IL
+    If(ILStack)
+        CIndex[](2)->Synth
+        CIndex[](2)->Synth
+        CIndex[](5)->Synth
+        GC[0](SyntheticStack)->IL
+        Swap[](ILStack, SyntheticStack)->IL
+        RCvt[](ILStack)->IL(As F26Dot6)
+        Round[1](ILStack)->IL(As F26Dot6)
+        Add[](ILStack, (F26Dot6)ILStack)->Synth
+        SCFS[]
+    EIf
+    Pop[](SyntheticStack)
+    Pop[](SyntheticStack)
+    Pop[](SyntheticStack)
+EndF
+Synth-Return->Synth

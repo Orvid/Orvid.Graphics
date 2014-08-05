@@ -1,0 +1,11 @@
+FDef
+    CIndex[](2)->Synth
+    GC[0](SyntheticStack)->IL(As F26Dot6)
+    Add[](ILStack, (F26Dot6)SyntheticStack)->IL
+    Roll[](ILStack, SyntheticStack, SyntheticStack)->Synth
+    GC[0](SyntheticStack)->IL(As F26Dot6)
+    Sub[]((F26Dot6)64, ILStack)->IL
+    Min[](ILStack, SyntheticStack)->Synth
+    SCFS[]
+EndF
+Synth-Return->Synth

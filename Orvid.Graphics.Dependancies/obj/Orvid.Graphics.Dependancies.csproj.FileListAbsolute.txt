@@ -1,0 +1,5 @@
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics.Dependancies\bin\Debug\Orvid.Graphics.Dependancies.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics.Dependancies\bin\Debug\Orvid.Graphics.Dependancies.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics.Dependancies\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics.Dependancies\obj\Debug\Orvid.Graphics.Dependancies.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics.Dependancies\obj\Debug\Orvid.Graphics.Dependancies.pdb

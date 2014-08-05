@@ -1,0 +1,37 @@
+FDef
+    GC[0](SyntheticStack)->IL
+    Swap[](ILStack, SyntheticStack)->IL
+    GC[0](ILStack)->IL(As F26Dot6)
+    Add[](ILStack, (F26Dot6)ILStack)->IL
+    Roll[](ILStack, SyntheticStack, SyntheticStack)->IL
+    Roll[](ILStack, ILStack, ILStack)->IL
+    GC[0](ILStack)->IL
+    Swap[](ILStack, ILStack)->IL
+    Dup[](ILStack)->(IL, IL)
+    GC[0](ILStack)->IL
+    Roll[](ILStack, ILStack, ILStack)->IL
+    Add[]((F26Dot6)ILStack, (F26Dot6)ILStack)->IL
+    Roll[](ILStack, ILStack, ILStack)->IL
+    Sub[]((F26Dot6)ILStack, (F26Dot6)ILStack)->IL(As F26Dot6)
+    Div[]((F26Dot6)-128, ILStack)->IL
+    Swap[](ILStack, ILStack)->IL
+    Dup[](ILStack)->(IL, IL)
+    SRP0[](ILStack)
+    Swap[](ILStack, ILStack)->IL
+    Roll[](ILStack, ILStack, SyntheticStack)->Synth
+    WCvtF[](SyntheticStack, 856)
+    RCvt[](856)->IL(As F26Dot6)
+    Add[](ILStack, (F26Dot6)SyntheticStack)->IL
+    Dup[](ILStack)->(Synth, Synth)
+    ComplexIf(SyntheticStack < 0)
+        Sub[]((F26Dot6)1, (F26Dot6)SyntheticStack)->IL
+        Max[](-70, ILStack)->Synth
+    Else
+        Min[](70, SyntheticStack)->Synth
+    EIf
+    Add[]((F26Dot6)16, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+    Round[0](ILStack)->IL(As F26Dot6)
+    SVTCA[1]
+    MSIRP[0](ILStack, SyntheticStack)
+EndF
+Synth-Return->Synth

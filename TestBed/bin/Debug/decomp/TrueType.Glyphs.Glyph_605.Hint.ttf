@@ -1,0 +1,134 @@
+Synth-LoadInt(73)->Synth
+{
+    59,
+    0,
+    74,
+    0,
+    112,
+    25,
+    3,
+    9,
+    0,
+    26,
+    0,
+    42,
+    0,
+    3,
+    1,
+    2,
+    -64,
+    9,
+    12,
+    52,
+    2,
+    2,
+    5,
+    6,
+    37,
+    0,
+    23,
+    6,
+    12,
+    13,
+    6,
+    0,
+    2,
+    492,
+    1,
+    1,
+    6,
+    7,
+    18,
+    7,
+    2,
+    15,
+    15,
+    6,
+    85,
+    7,
+    7,
+    13,
+    13,
+    6,
+    85,
+    7,
+    36,
+    17,
+    -22,
+    15,
+    16,
+    6,
+    85,
+    17,
+    -12,
+    13,
+    13,
+    6,
+    85,
+    0,
+    17,
+    16,
+    17,
+    144,
+    17,
+    3,
+    17,
+}
+MDAP[1](SyntheticStack)
+DeltaP1[]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+AlignRP[]
+SRP0[](SyntheticStack)
+AlignRP[]
+ShP[1]
+MDAP[1](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+IP[]
+SVTCA[0]
+MIAP[1](SyntheticStack, SyntheticStack)
+AlignRP[]
+MIAP[1](SyntheticStack, SyntheticStack)
+AlignRP[]
+MIRP[1111](SyntheticStack, SyntheticStack)
+AlignRP[]
+ShP[1]
+MDAP[1](SyntheticStack)
+Call[](SyntheticStack)
+AlignRP[]
+RS[](2)->IL
+ComplexIf(6 == ILStack)
+Else
+    Synth-LoadInt(17)->Synth
+    {
+        18,
+        41,
+        30,
+        23,
+        39,
+        35,
+        17,
+        41,
+        30,
+        13,
+        39,
+        34,
+        7,
+        41,
+        30,
+        12,
+        74,
+    }
+    Call[](35)
+    Call[](SyntheticStack)
+    Call[](SyntheticStack)
+EIf
+IUP[1]
+IUP[0]
+SVTCA[1]
+DeltaP1[]
+DeltaP1[]
+Synth-Return->Synth

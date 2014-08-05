@@ -1,0 +1,4 @@
+C:\Users\Orvid\Desktop\Orvid\Orvid.Extensions\bin\Debug\Orvid.Extensions.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Extensions\bin\Debug\Orvid.Extensions.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.Extensions\obj\Debug\Orvid.Extensions.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Extensions\obj\Debug\Orvid.Extensions.pdb

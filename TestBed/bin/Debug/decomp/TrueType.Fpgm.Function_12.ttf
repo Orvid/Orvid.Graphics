@@ -1,0 +1,12 @@
+FDef
+    SVTCA[0]
+    WCvtF[](SyntheticStack, 23)
+    MIAP[0](23, 1)
+    SVTCA[1]
+    WCvtF[](SyntheticStack, 23)
+    RCvt[](23)->IL(As F26Dot6)
+    MSIRP[0](ILStack, 2)
+    SFVTL[0](0, 2)
+    GFV[]->Synth
+EndF
+Synth-Return->Synth

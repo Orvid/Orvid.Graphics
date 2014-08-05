@@ -1,0 +1,23 @@
+FDef
+    Synth-LoadInt(4)->Synth
+    {
+        0,
+        1,
+        0,
+        0,
+    }
+    SZP2[](0)
+    MIndex[](8)->Synth
+    MIndex[](8)->Synth
+    MIndex[](8)->Synth
+    MIndex[](8)->Synth
+    ISect[]
+    SRP0[](SyntheticStack)
+    SZPS[](SyntheticStack)
+    SZP0[](SyntheticStack)
+    RCvt[](SyntheticStack)->IL(As F26Dot6)
+    Round[0](ILStack)->IL(As F26Dot6)
+    MSIRP[0](ILStack, SyntheticStack)
+    SZPS[](1)
+EndF
+Synth-Return->Synth

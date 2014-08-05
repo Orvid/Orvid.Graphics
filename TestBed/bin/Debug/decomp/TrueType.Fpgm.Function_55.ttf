@@ -1,0 +1,9 @@
+FDef
+    RS[](19)->IL
+    If(ILStack)
+        SPVTCA[1]
+    Else
+        SPVTCA[0]
+    EIf
+EndF
+Synth-Return->Synth

@@ -1,0 +1,16 @@
+FDef
+    Dup[](SyntheticStack)->(Synth, Synth)
+    RCvt[](SyntheticStack)->Synth
+    CIndex[](3)->Synth
+    RCvt[](SyntheticStack)->IL(As F26Dot6)
+    Sub[](ILStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+    Abs[](ILStack)->IL
+    ComplexIf(ILStack <= 80)
+        RCvt[](SyntheticStack)->IL(As F26Dot6)
+        WCvtP[](ILStack, SyntheticStack)
+    Else
+        Pop[](SyntheticStack)
+        Pop[](SyntheticStack)
+    EIf
+EndF
+Synth-Return->Synth

@@ -1,0 +1,19 @@
+FDef
+    Dup[](SyntheticStack)->(IL, IL)
+    Dup[](ILStack)->(IL, IL)
+    RCvt[](ILStack)->IL(As F26Dot6)
+    RTG[]
+    Round[0](ILStack)->IL(As F26Dot6)
+    WCvtP[](ILStack, ILStack)
+    Dup[](ILStack)->(IL, IL)
+    Add[]((F26Dot6)1, (F26Dot6)ILStack)->IL
+    Dup[](ILStack)->(IL, IL)
+    RCvt[](ILStack)->IL(As F26Dot6)
+    SRound[](70)
+    Round[0](ILStack)->IL
+    Roll[](ILStack, ILStack, ILStack)->IL
+    RCvt[](ILStack)->IL(As F26Dot6)
+    Add[](ILStack, (F26Dot6)ILStack)->IL(As F26Dot6)
+    WCvtP[](ILStack, ILStack)
+EndF
+Synth-Return->Synth

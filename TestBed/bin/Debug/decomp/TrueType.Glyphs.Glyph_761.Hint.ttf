@@ -1,0 +1,31 @@
+Synth-LoadInt(14)->Synth
+{
+    10,
+    10,
+    3,
+    10,
+    32,
+    16,
+    19,
+    52,
+    3,
+    10,
+    7,
+    0,
+    0,
+    7,
+}
+MDAP[1](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+IP[]
+Call[](SyntheticStack)
+SVTCA[0]
+MDAP[1](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+IUP[1]
+IUP[0]
+Synth-Return->Synth

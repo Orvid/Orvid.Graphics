@@ -1,0 +1,10 @@
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Compiler.TrueType\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Compiler.TrueType\bin\Debug\Orvid.Compiler.TrueType.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Compiler.TrueType\bin\Debug\Orvid.Compiler.TrueType.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Compiler.TrueType\bin\Debug\Orvid.Config.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Compiler.TrueType\bin\Debug\Orvid.TrueType.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Compiler.TrueType\bin\Debug\Orvid.Config.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Compiler.TrueType\bin\Debug\Orvid.Config.xml
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Compiler.TrueType\bin\Debug\Orvid.TrueType.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Compiler.TrueType\obj\Debug\Orvid.Compiler.TrueType.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Compiler.TrueType\obj\Debug\Orvid.Compiler.TrueType.pdb

@@ -1,0 +1,32 @@
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\TimesNewRoman2.ttf
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\MS-Sans-Serif_24.FNT
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\TimesNewRoman.ttf
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Vera-10.bdf
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\TestBed.exe
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\TestBed.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\OForms.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.Compiler.TrueType.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.Graphics.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.TrueType.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.Config.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.Graphics.Dependancies.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.Compression.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.Extensions.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.Config.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.Config.xml
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.Compiler.TrueType.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.Graphics.Dependancies.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.Compression.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.TrueType.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\OForms.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.Extensions.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\bin\Debug\Orvid.Graphics.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\obj\Debug\TestBed.Form1.resources
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\obj\Debug\TestBed.Properties.Resources.resources
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\obj\Debug\TestBed.TTFLoadingTestForm.resources
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\obj\Debug\TestBed.csproj.GenerateResource.Cache
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\obj\Debug\TestBed.exe
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\TestBed\obj\Debug\TestBed.pdb
+C:\Users\Orvid\Desktop\Orvid\TestBed\obj\Debug\TestBed.exe
+C:\Users\Orvid\Desktop\Orvid\TestBed\obj\Debug\TestBed.pdb

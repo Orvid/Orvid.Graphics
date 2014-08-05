@@ -1,0 +1,7 @@
+FDef
+    RS[](17)->IL
+    Swap[](ILStack, 16)->Synth
+    RS[](SyntheticStack)->Synth
+    SFVFS[]
+EndF
+Synth-Return->Synth

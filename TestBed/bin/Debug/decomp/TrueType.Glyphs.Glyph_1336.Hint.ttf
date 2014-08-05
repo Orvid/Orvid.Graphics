@@ -1,0 +1,143 @@
+Synth-LoadInt(99)->Synth
+{
+    23,
+    12,
+    1,
+    6,
+    12,
+    1,
+    231,
+    12,
+    247,
+    12,
+    2,
+    105,
+    3,
+    1,
+    90,
+    3,
+    1,
+    41,
+    3,
+    57,
+    3,
+    73,
+    3,
+    3,
+    219,
+    3,
+    1,
+    201,
+    3,
+    1,
+    187,
+    3,
+    1,
+    153,
+    3,
+    169,
+    3,
+    2,
+    122,
+    3,
+    138,
+    3,
+    2,
+    107,
+    3,
+    1,
+    58,
+    3,
+    74,
+    3,
+    90,
+    3,
+    3,
+    217,
+    3,
+    1,
+    202,
+    3,
+    1,
+    153,
+    3,
+    169,
+    3,
+    185,
+    3,
+    3,
+    15,
+    0,
+    7,
+    8,
+    0,
+    2,
+    15,
+    13,
+    2,
+    8,
+    7,
+    10,
+    112,
+    7,
+    1,
+    97,
+    7,
+    1,
+    48,
+    7,
+    64,
+    7,
+    80,
+    7,
+    3,
+    7,
+    159,
+    5,
+    175,
+    5,
+    191,
+    5,
+    3,
+}
+SVTCA[0]
+MDAP[1](2)
+MDRP[1010](5)
+DeltaP1[]
+MDRP[0012](SyntheticStack)
+DeltaP3[]
+DeltaP3[]
+DeltaP3[]
+MDRP[0111](SyntheticStack)
+SRP1[](SyntheticStack)
+IP[]
+SRP0[](SyntheticStack)
+MDRP[1111](SyntheticStack)
+MDRP[0012](SyntheticStack)
+SRP1[](SyntheticStack)
+IP[]
+SVTCA[1]
+MDAP[1](SyntheticStack)
+ShP[1]
+MDRP[0110](SyntheticStack)
+ShP[0]
+IUP[1]
+IUP[0]
+SVTCA[0]
+DeltaP1[]
+DeltaP1[]
+DeltaP1[]
+DeltaP2[]
+DeltaP2[]
+DeltaP2[]
+DeltaP2[]
+DeltaP2[]
+DeltaP2[]
+DeltaP2[]
+DeltaP3[]
+DeltaP3[]
+DeltaP3[]
+DeltaP2[]
+DeltaP3[]
+DeltaP3[]
+Synth-Return->Synth

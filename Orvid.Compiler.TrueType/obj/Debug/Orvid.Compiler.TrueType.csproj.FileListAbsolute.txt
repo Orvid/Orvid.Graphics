@@ -1,0 +1,10 @@
+C:\Users\Orvid\Desktop\Orvid\Orvid.Compiler.TrueType\bin\Debug\Orvid.Compiler.TrueType.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Compiler.TrueType\bin\Debug\Orvid.Compiler.TrueType.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.Compiler.TrueType\bin\Debug\Orvid.Config.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Compiler.TrueType\bin\Debug\Orvid.TrueType.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Compiler.TrueType\bin\Debug\Orvid.Config.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.Compiler.TrueType\bin\Debug\Orvid.Config.xml
+C:\Users\Orvid\Desktop\Orvid\Orvid.Compiler.TrueType\bin\Debug\Orvid.TrueType.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.Compiler.TrueType\obj\Debug\Orvid.Compiler.TrueType.csprojResolveAssemblyReference.cache
+C:\Users\Orvid\Desktop\Orvid\Orvid.Compiler.TrueType\obj\Debug\Orvid.Compiler.TrueType.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Compiler.TrueType\obj\Debug\Orvid.Compiler.TrueType.pdb

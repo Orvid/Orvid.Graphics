@@ -1,0 +1,174 @@
+Synth-LoadInt(75)->Synth
+{
+    151,
+    18,
+    168,
+    7,
+    169,
+    10,
+    169,
+    16,
+    4,
+    119,
+    1,
+    121,
+    7,
+    135,
+    1,
+    136,
+    7,
+    4,
+    67,
+    8,
+    13,
+    40,
+    0,
+    3,
+    21,
+    40,
+    6,
+    9,
+    24,
+    60,
+    31,
+    3,
+    47,
+    3,
+    2,
+    0,
+    3,
+    16,
+    3,
+    32,
+    3,
+    48,
+    3,
+    64,
+    3,
+    5,
+    3,
+    73,
+    29,
+    -64,
+    63,
+    53,
+    32,
+    29,
+    64,
+    29,
+    2,
+    29,
+    17,
+    60,
+    16,
+    9,
+    32,
+    9,
+    2,
+    15,
+    9,
+    31,
+    9,
+    2,
+    9,
+    73,
+    28,
+    100,
+    99,
+}
+Call[](24)
+FlipOff[]
+SRP0[](SyntheticStack)
+MIRP[1010](SyntheticStack, SyntheticStack)
+DeltaP1[]
+DeltaP3[]
+FlipOn[]
+MIRP[0111](SyntheticStack, SyntheticStack)
+FlipOn[]
+SRP0[](SyntheticStack)
+DeltaP2[]
+Call[](SyntheticStack)
+MIRP[1012](SyntheticStack, SyntheticStack)
+DeltaP1[]
+DeltaP3[]
+FlipOn[]
+MIRP[0111](SyntheticStack, SyntheticStack)
+SVTCA[0]
+MIAP[1](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIAP[1](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+IUP[1]
+IUP[0]
+RS[](SyntheticStack)->Synth
+JROF[](SyntheticStack, SyntheticStack)
+Synth-LoadInt(49)->Synth
+{
+    1,
+    27,
+    15,
+    37,
+    11,
+    38,
+    26,
+    38,
+    19,
+    38,
+    14,
+    12,
+    17,
+    45,
+    0,
+    27,
+    1,
+    24,
+    45,
+    1,
+    20,
+    7,
+    17,
+    45,
+    0,
+    22,
+    5,
+    24,
+    45,
+    1,
+    16,
+    10,
+    13,
+    45,
+    1,
+    25,
+    2,
+    13,
+    45,
+    1,
+    18,
+    8,
+    21,
+    45,
+    0,
+    23,
+    4,
+    21,
+    45,
+}
+Call[](0)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SVTCA[1]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+FlipRgOn[]
+SVTCA[1]
+DeltaP1[]
+DeltaP1[]
+Synth-Return->Synth

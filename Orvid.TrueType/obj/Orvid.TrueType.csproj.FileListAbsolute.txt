@@ -1,0 +1,8 @@
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.TrueType\bin\Debug\Orvid.TrueType.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.TrueType\bin\Debug\Orvid.TrueType.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.TrueType\bin\Debug\Orvid.Config.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.TrueType\bin\Debug\Orvid.Config.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.TrueType\bin\Debug\Orvid.Config.xml
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.TrueType\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.TrueType\obj\Debug\Orvid.TrueType.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.TrueType\obj\Debug\Orvid.TrueType.pdb

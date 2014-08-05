@@ -1,0 +1,311 @@
+Synth-LoadInt(104)->Synth
+{
+    43,
+    0,
+    43,
+    3,
+    2,
+    169,
+    6,
+    166,
+    12,
+    169,
+    16,
+    169,
+    37,
+    166,
+    44,
+    169,
+    48,
+    185,
+    6,
+    182,
+    12,
+    185,
+    16,
+    185,
+    37,
+    182,
+    44,
+    185,
+    48,
+    12,
+    146,
+    8,
+    3,
+    2,
+    2,
+    807,
+    1,
+    0,
+    20,
+    1,
+    1,
+    0,
+    1,
+    2,
+    31,
+    21,
+    0,
+    3,
+    62,
+    54,
+    27,
+    70,
+    10,
+    18,
+    70,
+    10,
+    345,
+    4,
+    3,
+    4,
+    0,
+    50,
+    70,
+    35,
+    345,
+    58,
+    70,
+    42,
+    42,
+    2,
+    2,
+    1,
+    0,
+    3,
+    1,
+    11,
+    39,
+    56,
+    62,
+    250,
+    54,
+    56,
+    80,
+    46,
+    1,
+    16,
+    46,
+    64,
+    46,
+    2,
+    46,
+    734,
+    66,
+    7,
+    56,
+    31,
+    250,
+    21,
+    56,
+    14,
+    25,
+    66,
+    84,
+    90,
+}
+Call[](24)
+FlipOff[]
+SRP0[](SyntheticStack)
+MIRP[1010](SyntheticStack, SyntheticStack)
+FlipOn[]
+MIRP[1111](SyntheticStack, SyntheticStack)
+MIRP[1012](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+SRP0[](SyntheticStack)
+MIRP[1012](SyntheticStack, SyntheticStack)
+DeltaP1[]
+DeltaP2[]
+MIRP[1111](SyntheticStack, SyntheticStack)
+MIRP[1012](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+SVTCA[0]
+MIAP[1](SyntheticStack, SyntheticStack)
+MIAP[1](SyntheticStack, SyntheticStack)
+SRP0[](SyntheticStack)
+AlignRP[]
+SRP0[](SyntheticStack)
+AlignRP[]
+SRP0[](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[1111](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+SRP0[](SyntheticStack)
+AlignRP[]
+AlignRP[]
+SRP0[](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+SRP0[](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+SVTCA[1]
+SRP1[](SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+IP[]
+SRP1[](SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+IP[]
+SDPVTL[1](SyntheticStack, SyntheticStack)
+MDAP[0](SyntheticStack)
+Call[](SyntheticStack)
+RDTG[]
+SRP0[](SyntheticStack)
+MDRP[0010](SyntheticStack)
+IUP[1]
+IUP[0]
+RTG[]
+RS[](SyntheticStack)->Synth
+JROF[](SyntheticStack, SyntheticStack)
+Synth-LoadInt(111)->Synth
+{
+    5,
+    65,
+    52,
+    37,
+    48,
+    38,
+    37,
+    37,
+    64,
+    38,
+    56,
+    38,
+    44,
+    37,
+    60,
+    37,
+    16,
+    38,
+    33,
+    38,
+    23,
+    22,
+    24,
+    22,
+    25,
+    22,
+    3,
+    6,
+    12,
+    37,
+    29,
+    37,
+    51,
+    49,
+    54,
+    29,
+    0,
+    65,
+    36,
+    62,
+    29,
+    1,
+    57,
+    43,
+    54,
+    29,
+    0,
+    59,
+    41,
+    62,
+    29,
+    1,
+    19,
+    17,
+    21,
+    29,
+    0,
+    34,
+    5,
+    31,
+    29,
+    1,
+    26,
+    11,
+    21,
+    29,
+    0,
+    28,
+    9,
+    31,
+    29,
+    1,
+    53,
+    47,
+    50,
+    29,
+    1,
+    63,
+    38,
+    50,
+    29,
+    1,
+    55,
+    45,
+    58,
+    29,
+    0,
+    61,
+    40,
+    58,
+    29,
+    0,
+    20,
+    15,
+    18,
+    29,
+    1,
+    32,
+    6,
+    18,
+    29,
+    1,
+    22,
+    13,
+    27,
+    29,
+    0,
+    30,
+    8,
+    27,
+    29,
+}
+SVTCA[0]
+Call[](0)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SVTCA[1]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+LoopCall[]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+FlipRgOn[]
+SVTCA[0]
+DeltaP1[]
+SVTCA[1]
+DeltaP1[]
+Synth-Return->Synth

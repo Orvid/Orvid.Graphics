@@ -1,0 +1,181 @@
+Synth-LoadInt(116)->Synth
+{
+    144,
+    24,
+    1,
+    24,
+    -64,
+    50,
+    50,
+    52,
+    112,
+    24,
+    160,
+    24,
+    240,
+    24,
+    3,
+    32,
+    24,
+    80,
+    24,
+    2,
+    64,
+    24,
+    80,
+    24,
+    96,
+    24,
+    144,
+    24,
+    4,
+    24,
+    -64,
+    56,
+    58,
+    52,
+    24,
+    -64,
+    45,
+    48,
+    52,
+    24,
+    -64,
+    35,
+    37,
+    52,
+    24,
+    -64,
+    25,
+    26,
+    52,
+    21,
+    39,
+    13,
+    65,
+    20,
+    30,
+    21,
+    68,
+    13,
+    7,
+    22,
+    0,
+    7,
+    7,
+    6,
+    10,
+    0,
+    1,
+    13,
+    1,
+    8,
+    13,
+    13,
+    6,
+    85,
+    1,
+    4,
+    15,
+    15,
+    6,
+    85,
+    1,
+    36,
+    12,
+    -10,
+    13,
+    13,
+    6,
+    85,
+    12,
+    -64,
+    54,
+    58,
+    52,
+    144,
+    12,
+    1,
+    80,
+    12,
+    1,
+    144,
+    12,
+    160,
+    12,
+    240,
+    12,
+    3,
+    96,
+    12,
+    112,
+    12,
+    2,
+    12,
+    178,
+    23,
+    178,
+    163,
+}
+Call[](24)
+SRP0[](SyntheticStack)
+MIRP[1012](SyntheticStack, SyntheticStack)
+DeltaP1[]
+DeltaP1[]
+DeltaP2[]
+DeltaP3[]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+AlignRP[]
+SRP0[](SyntheticStack)
+AlignRP[]
+SVTCA[0]
+MIAP[1](SyntheticStack, SyntheticStack)
+AlignRP[]
+MIAP[1](SyntheticStack, SyntheticStack)
+AlignRP[]
+SRP2[](SyntheticStack)
+IP[]
+MIRP[1011](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[1110](SyntheticStack, SyntheticStack)
+SVTCA[1]
+MIRP[1011](SyntheticStack, SyntheticStack)
+RS[](2)->IL
+ComplexIf(6 == ILStack)
+Else
+    Synth-LoadInt(11)->Synth
+    {
+        12,
+        41,
+        30,
+        7,
+        74,
+        34,
+        1,
+        41,
+        30,
+        6,
+        74,
+    }
+    Call[](35)
+    Call[](SyntheticStack)
+EIf
+IUP[1]
+IUP[0]
+SVTCA[1]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SVTCA[1]
+DeltaP1[]
+DeltaP2[]
+DeltaP1[]
+Call[](SyntheticStack)
+SVTCA[1]
+DeltaP3[]
+Synth-Return->Synth

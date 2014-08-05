@@ -1,0 +1,17 @@
+FDef
+    MPPEM[]->IL
+    ComplexIf(ILStack <= 100)
+        RCvt[](SyntheticStack)->IL(As F26Dot6)
+        Round[1](ILStack)->IL(As F26Dot6)
+        RS[](9)->IL
+        Add[]((F26Dot6)ILStack, ILStack)->IL
+        Roll[](ILStack, SyntheticStack, SyntheticStack)->IL
+        SRP0[](ILStack)
+        MSIRP[0]((F26Dot6)ILStack, ILStack)
+    Else
+        Pop[](SyntheticStack)
+        Pop[](SyntheticStack)
+        SRP0[](SyntheticStack)
+    EIf
+EndF
+Synth-Return->Synth

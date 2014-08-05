@@ -1,0 +1,199 @@
+Synth-LoadInt(125)->Synth
+{
+    14,
+    -24,
+    23,
+    25,
+    52,
+    48,
+    893,
+    56,
+    64,
+    23,
+    25,
+    52,
+    56,
+    56,
+    19,
+    30,
+    10,
+    23,
+    23,
+    19,
+    25,
+    26,
+    26,
+    19,
+    19,
+    38,
+    3,
+    2,
+    876,
+    1,
+    1,
+    0,
+    873,
+    36,
+    35,
+    879,
+    38,
+    9,
+    10,
+    877,
+    39,
+    38,
+    874,
+    52,
+    892,
+    31,
+    44,
+    80,
+    44,
+    2,
+    143,
+    44,
+    175,
+    44,
+    2,
+    95,
+    44,
+    1,
+    47,
+    44,
+    63,
+    44,
+    79,
+    44,
+    3,
+    44,
+    44,
+    16,
+    10,
+    881,
+    30,
+    30,
+    12,
+    10,
+    9,
+    16,
+    6,
+    85,
+    12,
+    903,
+    28,
+    17,
+    128,
+    16,
+    1,
+    160,
+    16,
+    1,
+    112,
+    16,
+    128,
+    16,
+    144,
+    16,
+    3,
+    64,
+    16,
+    80,
+    16,
+    96,
+    16,
+    3,
+    32,
+    16,
+    48,
+    16,
+    2,
+    16,
+    16,
+    28,
+    28,
+    2,
+    1,
+    1,
+    33,
+    36,
+    882,
+    35,
+    883,
+    33,
+    6,
+    -16,
+    9,
+    16,
+    6,
+}
+SRP0[](60)
+MIRP[0012](929, 33)
+SRP0[](61)
+MIRP[1012](923, 41)
+MIRP[0111](890, 6)
+Call[](85)
+SRP0[](SyntheticStack)
+MIRP[1010](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+SRP1[](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+ShP[1]
+ShP[1]
+MDAP[1](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+DeltaP1[]
+DeltaP1[]
+DeltaP1[]
+DeltaP1[]
+DeltaP2[]
+AlignRP[]
+SRP0[](SyntheticStack)
+MIRP[1111](SyntheticStack, SyntheticStack)
+Call[](SyntheticStack)
+ShP[0]
+MDAP[1](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+SRP1[](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+DeltaP1[]
+DeltaP1[]
+DeltaP2[]
+DeltaP3[]
+MIRP[0111](SyntheticStack, SyntheticStack)
+SVTCA[0]
+MIAP[1](SyntheticStack, SyntheticStack)
+AlignRP[]
+MIRP[1111](SyntheticStack, SyntheticStack)
+AlignRP[]
+SRP0[](SyntheticStack)
+MIRP[1010](SyntheticStack, SyntheticStack)
+AlignRP[]
+MIAP[1](SyntheticStack, SyntheticStack)
+AlignRP[]
+SRP0[](SyntheticStack)
+MIRP[1111](SyntheticStack, SyntheticStack)
+AlignRP[]
+SRP2[](SyntheticStack)
+IP[]
+MDAP[1](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+AlignRP[]
+SRP1[](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+SRP1[](SyntheticStack)
+ShP[1]
+SRP1[](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+Call[](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+SVTCA[0]
+Call[](SyntheticStack)
+IUP[1]
+IUP[0]
+Synth-Return->Synth

@@ -1,0 +1,85 @@
+Synth-LoadInt(54)->Synth
+{
+    214,
+    2,
+    230,
+    2,
+    246,
+    2,
+    3,
+    4,
+    2,
+    192,
+    3,
+    1,
+    53,
+    3,
+    1,
+    4,
+    3,
+    20,
+    3,
+    36,
+    3,
+    3,
+    3,
+    217,
+    1,
+    233,
+    1,
+    249,
+    1,
+    3,
+    1,
+    6,
+    207,
+    0,
+    1,
+    58,
+    0,
+    1,
+    11,
+    0,
+    27,
+    0,
+    43,
+    0,
+    3,
+    0,
+    64,
+    5,
+    0,
+    224,
+    3,
+    240,
+    3,
+    2,
+}
+SVTCA[0]
+MDAP[1](2)
+MDRP[0111](5)
+SMD[]((F26Dot6)128)
+MDRP[1111](3)
+DeltaP1[]
+MDRP[0000](SyntheticStack)
+SVTCA[1]
+RTHG[]
+MDAP[1](SyntheticStack)
+SMD[]((F26Dot6)SyntheticStack)
+MDRP[0111](SyntheticStack)
+DeltaP1[]
+DeltaP1[]
+DeltaP2[]
+IP[]
+IP[]
+DeltaP1[]
+MDRP[0111](SyntheticStack)
+DeltaP1[]
+DeltaP1[]
+DeltaP2[]
+IP[]
+IP[]
+DeltaP1[]
+IUP[1]
+IUP[0]
+Synth-Return->Synth

@@ -1,0 +1,15 @@
+FDef
+    SVTCA[1]
+    CIndex[](5)->Synth
+    SRP0[](SyntheticStack)
+    Swap[](SyntheticStack, SyntheticStack)->IL
+    Dup[](ILStack)->(IL, IL)
+    Roll[](ILStack, ILStack, ILStack)->IL
+    MIRP[1011](ILStack, ILStack)
+    SVTCA[0]
+    Add[]((F26Dot6)1, (F26Dot6)ILStack)->IL
+    Swap[](ILStack, SyntheticStack)->IL
+    MIRP[0111](ILStack, ILStack)
+    MIRP[0110](SyntheticStack, SyntheticStack)
+EndF
+Synth-Return->Synth

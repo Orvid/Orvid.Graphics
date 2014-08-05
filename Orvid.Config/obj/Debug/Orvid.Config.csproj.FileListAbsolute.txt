@@ -1,0 +1,5 @@
+C:\Users\Orvid\Desktop\Orvid\Orvid.Config\bin\Debug\Orvid.Config.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Config\bin\Debug\Orvid.Config.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.Config\bin\Debug\Orvid.Config.xml
+C:\Users\Orvid\Desktop\Orvid\Orvid.Config\obj\Debug\Orvid.Config.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Config\obj\Debug\Orvid.Config.pdb

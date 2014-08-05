@@ -1,0 +1,21 @@
+FDef
+    Dup[](SyntheticStack)->(Synth, Synth)
+    Round[1]((F26Dot6)SyntheticStack)->IL(As F26Dot6)
+    Sub[]((F26Dot6)64, ILStack)->IL
+    Max[](0, ILStack)->IL
+    Dup[](ILStack)->(Synth, Synth)
+    Min[](SyntheticStack, 44)->IL
+    Div[]((F26Dot6)4096, (F26Dot6)ILStack)->IL(As F26Dot6)
+    Add[](ILStack, (F26Dot6)192)->IL
+    Call[](ILStack)
+    GPV[]->IL
+    Abs[]((F26Dot6)ILStack)->IL
+    Swap[](ILStack, ILStack)->IL
+    Abs[]((F26Dot6)ILStack)->IL(As F26Dot6)
+    Sub[](ILStack, (F26Dot6)ILStack)->IL
+    Not[](ILStack)->IL
+    If(ILStack)
+        Sub[]((F26Dot6)3, (F26Dot6)SyntheticStack)->Synth
+    EIf
+EndF
+Synth-Return->Synth

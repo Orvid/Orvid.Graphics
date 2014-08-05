@@ -1,0 +1,9 @@
+FDef
+    Call[](43)
+    Synth-LoadInt(1)->Synth
+    {
+        42,
+    }
+    LoopCall[]
+EndF
+Synth-Return->Synth

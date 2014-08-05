@@ -1,0 +1,9 @@
+FDef
+    RS[](1)->IL
+    Mul[]((F26Dot6)ILStack, (F26Dot6)SyntheticStack)->IL
+    Swap[](ILStack, SyntheticStack)->IL
+    Div[]((F26Dot6)ILStack, (F26Dot6)ILStack)->IL
+    WS[](ILStack, 0)
+    Call[](15)
+EndF
+Synth-Return->Synth

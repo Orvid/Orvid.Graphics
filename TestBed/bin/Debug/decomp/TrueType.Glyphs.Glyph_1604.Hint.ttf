@@ -1,0 +1,18 @@
+Synth-LoadInt(4)->Synth
+{
+    0,
+    -64,
+    9,
+    25,
+}
+SVTCA[0]
+MIAP[1](947, 1)
+MIRP[0111](951, 3)
+SVTCA[1]
+MDAP[1](1)
+SRP0[](5)
+MDRP[0012](0)
+Call[](52)
+IUP[1]
+IUP[0]
+Synth-Return->Synth

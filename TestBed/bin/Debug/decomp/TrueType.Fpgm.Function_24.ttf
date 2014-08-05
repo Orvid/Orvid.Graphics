@@ -1,0 +1,77 @@
+FDef
+    Dup[](SyntheticStack)->(Synth, Synth)
+    CIndex[](3)->Synth
+    RCvt[](SyntheticStack)->IL
+    WCvtP[]((F26Dot6)ILStack, 25)
+    RCvt[](SyntheticStack)->IL
+    WCvtP[]((F26Dot6)ILStack, 26)
+    RCvt[](SyntheticStack)->IL(As F26Dot6)
+    Neg[](ILStack)->IL
+    Swap[](ILStack, SyntheticStack)->Synth
+    RCvt[](SyntheticStack)->IL
+    Dup[](ILStack)->(Synth, Synth)
+    CIndex[](3)->Synth
+    Add[]((F26Dot6)SyntheticStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+    Round[2](ILStack)->IL
+    Dup[](ILStack)->(IL, IL)
+    WS[](ILStack, 9)
+    Swap[](ILStack, SyntheticStack)->IL
+    Round[0]((F26Dot6)ILStack)->IL
+    Roll[](ILStack, ILStack, SyntheticStack)->IL
+    Round[2]((F26Dot6)ILStack)->IL(As F26Dot6)
+    Add[](ILStack, (F26Dot6)ILStack)->IL(As F26Dot6)
+    Sub[](ILStack, (F26Dot6)ILStack)->IL
+    Dup[](ILStack)->(IL, IL)
+    Roll[](26, ILStack, ILStack)->Synth
+    GT[](0, SyntheticStack)->Synth
+    JROF[](SyntheticStack, SyntheticStack)
+    Pop[](SyntheticStack)
+    Synth-LoadInt(3)->Synth
+    {
+        26,
+        26,
+        64,
+    }
+    RCvt[](26)->IL
+    Dup[](ILStack)->(IL, IL)
+    Roll[](ILStack, ILStack, -32)->Synth
+    EQ[](SyntheticStack, SyntheticStack)->IL
+    If(ILStack)
+        Swap[](SyntheticStack, SyntheticStack)->Synth
+        Pop[](SyntheticStack)
+        Synth-LoadInt(1)->Synth
+        {
+            63,
+        }
+    Else
+        Swap[](SyntheticStack, SyntheticStack)->Synth
+    EIf
+    Sub[]((F26Dot6)SyntheticStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+    WCvtP[](ILStack, SyntheticStack)
+    JmpR[](SyntheticStack)
+    Roll[](0, 20, SyntheticStack)->Synth
+    GT[](SyntheticStack, SyntheticStack)->Synth
+    JROF[](SyntheticStack, SyntheticStack)
+    Synth-LoadInt(2)->Synth
+    {
+        25,
+        64,
+    }
+    RCvt[](25)->IL
+    Dup[](ILStack)->(IL, IL)
+    Roll[](ILStack, ILStack, 32)->Synth
+    EQ[](SyntheticStack, SyntheticStack)->IL
+    If(ILStack)
+        Swap[](SyntheticStack, SyntheticStack)->Synth
+        Pop[](SyntheticStack)
+        Synth-LoadInt(1)->Synth
+        {
+            63,
+        }
+    Else
+        Swap[](SyntheticStack, SyntheticStack)->Synth
+    EIf
+    Sub[]((F26Dot6)SyntheticStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+    WCvtP[](ILStack, SyntheticStack)
+EndF
+Synth-Return->Synth

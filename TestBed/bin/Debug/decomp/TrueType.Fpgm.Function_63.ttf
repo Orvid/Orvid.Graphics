@@ -1,0 +1,25 @@
+FDef
+    GPV[]->IL
+    Roll[](ILStack, ILStack, SyntheticStack)->Synth
+    SPVTCA[1]
+    MPPEM[]->IL
+    EQ[](ILStack, SyntheticStack)->Synth
+    MIndex[](4)->Synth
+    SPVTCA[0]
+    MPPEM[]->IL
+    EQ[](ILStack, SyntheticStack)->IL
+    And[](ILStack, SyntheticStack)->IL
+    Roll[](ILStack, SyntheticStack, SyntheticStack)->IL
+    Roll[](ILStack, ILStack, ILStack)->Synth
+    SPVFS[]
+    RS[](18)->IL
+    Not[](ILStack)->IL
+    And[](ILStack, SyntheticStack)->IL
+    If(ILStack)
+        ShPix[]((F26Dot6)SyntheticStack, ...)
+    Else
+        Pop[](SyntheticStack)
+        Pop[](SyntheticStack)
+    EIf
+EndF
+Synth-Return->Synth

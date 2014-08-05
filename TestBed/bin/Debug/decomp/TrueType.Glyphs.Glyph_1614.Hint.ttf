@@ -1,0 +1,28 @@
+Synth-LoadInt(15)->Synth
+{
+    0,
+    6,
+    9,
+    31,
+    3,
+    63,
+    3,
+    95,
+    3,
+    127,
+    3,
+    159,
+    3,
+    5,
+    3,
+}
+SVTCA[0]
+MDAP[1](SyntheticStack)
+DeltaP1[]
+MDRP[0111](SyntheticStack)
+SVTCA[1]
+MDAP[1](SyntheticStack)
+MDRP[0111](SyntheticStack)
+IUP[1]
+IUP[0]
+Synth-Return->Synth

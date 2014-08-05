@@ -1,0 +1,11 @@
+FDef
+    Dup[](SyntheticStack)->(IL, IL)
+    Add[]((F26Dot6)1, (F26Dot6)ILStack)->IL
+    SVTCA[1]
+    SRP0[](ILStack)
+    Dup[](ILStack)->(Synth, Synth)
+    AlignRP[]
+    SVTCA[0]
+    AlignRP[]
+EndF
+Synth-Return->Synth

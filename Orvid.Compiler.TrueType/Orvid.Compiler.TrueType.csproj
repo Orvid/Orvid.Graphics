@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9BA416BA-44E9-4003-85D0-A276A9CC934D}</ProjectGuid>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Orvid.Compiler.TrueType</RootNamespace>
+    <AssemblyName>Orvid.Compiler.TrueType</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugType>full</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+    <ErrorReport>prompt</ErrorReport>
+    <OutputPath>bin\Debug\</OutputPath>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <OutputPath>bin\Release\</OutputPath>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DefineConstants>TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="HintingVM\Instructions\Abs.cs" />
+    <Compile Include="HintingVM\Instructions\Add.cs" />
+    <Compile Include="HintingVM\Instructions\AlignRP.cs" />
+    <Compile Include="HintingVM\Instructions\And.cs" />
+    <Compile Include="HintingVM\Instructions\Call.cs" />
+    <Compile Include="HintingVM\Instructions\Ceiling.cs" />
+    <Compile Include="HintingVM\Instructions\CIndex.cs" />
+    <Compile Include="HintingVM\Instructions\Clear.cs" />
+    <Compile Include="HintingVM\Instructions\ComplexCondition.cs" />
+    <Compile Include="HintingVM\Instructions\ComplexIf.cs" />
+    <Compile Include="HintingVM\Instructions\ConsoleWriteLine.cs" />
+    <Compile Include="HintingVM\Instructions\DeltaC1.cs" />
+    <Compile Include="HintingVM\Instructions\DeltaC2.cs" />
+    <Compile Include="HintingVM\Instructions\DeltaC3.cs" />
+    <Compile Include="HintingVM\Instructions\DeltaP1.cs" />
+    <Compile Include="HintingVM\Instructions\DeltaP2.cs" />
+    <Compile Include="HintingVM\Instructions\DeltaP3.cs" />
+    <Compile Include="HintingVM\Instructions\Depth.cs" />
+    <Compile Include="HintingVM\Instructions\Div.cs" />
+    <Compile Include="HintingVM\Instructions\Dup.cs" />
+    <Compile Include="HintingVM\Instructions\EIf.cs" />
+    <Compile Include="HintingVM\Instructions\Else.cs" />
+    <Compile Include="HintingVM\Instructions\EndF.cs" />
+    <Compile Include="HintingVM\Instructions\EQ.cs" />
+    <Compile Include="HintingVM\Instructions\Even.cs" />
+    <Compile Include="HintingVM\Instructions\FDef.cs" />
+    <Compile Include="HintingVM\Instructions\FlipOff.cs" />
+    <Compile Include="HintingVM\Instructions\FlipOn.cs" />
+    <Compile Include="HintingVM\Instructions\FlipPt.cs" />
+    <Compile Include="HintingVM\Instructions\FlipRgOff.cs" />
+    <Compile Include="HintingVM\Instructions\FlipRgOn.cs" />
+    <Compile Include="HintingVM\Instructions\Floor.cs" />
+    <Compile Include="HintingVM\Instructions\FSet.cs" />
+    <Compile Include="HintingVM\Instructions\GC.cs" />
+    <Compile Include="HintingVM\Instructions\GetInfo.cs" />
+    <Compile Include="HintingVM\Instructions\GFV.cs" />
+    <Compile Include="HintingVM\Instructions\GPV.cs" />
+    <Compile Include="HintingVM\Instructions\GT.cs" />
+    <Compile Include="HintingVM\Instructions\GTEQ.cs" />
+    <Compile Include="HintingVM\Instructions\If.cs" />
+    <Compile Include="HintingVM\Instructions\InstCtrl.cs" />
+    <Compile Include="HintingVM\Instructions\IP.cs" />
+    <Compile Include="HintingVM\Instructions\ISect.cs" />
+    <Compile Include="HintingVM\Instructions\IUP.cs" />
+    <Compile Include="HintingVM\Instructions\JmpR.cs" />
+    <Compile Include="HintingVM\Instructions\JROF.cs" />
+    <Compile Include="HintingVM\Instructions\JROT.cs" />
+    <Compile Include="HintingVM\Instructions\LoadInt.cs" />
+    <Compile Include="HintingVM\Instructions\LoneDeltaC.cs" />
+    <Compile Include="HintingVM\Instructions\LoopCall.cs" />
+    <Compile Include="HintingVM\Instructions\LT.cs" />
+    <Compile Include="HintingVM\Instructions\LTEQ.cs" />
+    <Compile Include="HintingVM\Instructions\Max.cs" />
+    <Compile Include="HintingVM\Instructions\MD.cs" />
+    <Compile Include="HintingVM\Instructions\MDAP.cs" />
+    <Compile Include="HintingVM\Instructions\MDRP.cs" />
+    <Compile Include="HintingVM\Instructions\MIAP.cs" />
+    <Compile Include="HintingVM\Instructions\Min.cs" />
+    <Compile Include="HintingVM\Instructions\MIndex.cs" />
+    <Compile Include="HintingVM\Instructions\MIRP.cs" />
+    <Compile Include="HintingVM\Instructions\MPPEM.cs" />
+    <Compile Include="HintingVM\Instructions\MPS.cs" />
+    <Compile Include="HintingVM\Instructions\MSIRP.cs" />
+    <Compile Include="HintingVM\Instructions\Mul.cs" />
+    <Compile Include="HintingVM\Instructions\Neg.cs" />
+    <Compile Include="HintingVM\Instructions\NEQ.cs" />
+    <Compile Include="HintingVM\Instructions\Not.cs" />
+    <Compile Include="HintingVM\Instructions\NPushB.cs" />
+    <Compile Include="HintingVM\Instructions\NPushW.cs" />
+    <Compile Include="HintingVM\Instructions\Odd.cs" />
+    <Compile Include="HintingVM\Instructions\Or.cs" />
+    <Compile Include="HintingVM\Instructions\Pop.cs" />
+    <Compile Include="HintingVM\Instructions\PushB.cs" />
+    <Compile Include="HintingVM\Instructions\PushW.cs" />
+    <Compile Include="HintingVM\Instructions\RCvt.cs" />
+    <Compile Include="HintingVM\Instructions\RDTG.cs" />
+    <Compile Include="HintingVM\Instructions\Return.cs" />
+    <Compile Include="HintingVM\Instructions\ROff.cs" />
+    <Compile Include="HintingVM\Instructions\Roll.cs" />
+    <Compile Include="HintingVM\Instructions\Round.cs" />
+    <Compile Include="HintingVM\Instructions\RS.cs" />
+    <Compile Include="HintingVM\Instructions\RTDG.cs" />
+    <Compile Include="HintingVM\Instructions\RTG.cs" />
+    <Compile Include="HintingVM\Instructions\RTHG.cs" />
+    <Compile Include="HintingVM\Instructions\RUTG.cs" />
+    <Compile Include="HintingVM\Instructions\S45Round.cs" />
+    <Compile Include="HintingVM\Instructions\ScanCtrl.cs" />
+    <Compile Include="HintingVM\Instructions\ScanType.cs" />
+    <Compile Include="HintingVM\Instructions\SCFS.cs" />
+    <Compile Include="HintingVM\Instructions\SCVTCI.cs" />
+    <Compile Include="HintingVM\Instructions\SDB.cs" />
+    <Compile Include="HintingVM\Instructions\SDPVTL.cs" />
+    <Compile Include="HintingVM\Instructions\SDS.cs" />
+    <Compile Include="HintingVM\Instructions\SFVFS.cs" />
+    <Compile Include="HintingVM\Instructions\SFVTCA.cs" />
+    <Compile Include="HintingVM\Instructions\SFVTL.cs" />
+    <Compile Include="HintingVM\Instructions\SFVTPV.cs" />
+    <Compile Include="HintingVM\Instructions\ShC.cs" />
+    <Compile Include="HintingVM\Instructions\ShP.cs" />
+    <Compile Include="HintingVM\Instructions\ShPix.cs" />
+    <Compile Include="HintingVM\Instructions\SLoop.cs" />
+    <Compile Include="HintingVM\Instructions\SMD.cs" />
+    <Compile Include="HintingVM\Instructions\SPVFS.cs" />
+    <Compile Include="HintingVM\Instructions\SPVTCA.cs" />
+    <Compile Include="HintingVM\Instructions\SPVTL.cs" />
+    <Compile Include="HintingVM\Instructions\SRound.cs" />
+    <Compile Include="HintingVM\Instructions\SRP0.cs" />
+    <Compile Include="HintingVM\Instructions\SRP1.cs" />
+    <Compile Include="HintingVM\Instructions\SRP2.cs" />
+    <Compile Include="HintingVM\Instructions\Sub.cs" />
+    <Compile Include="HintingVM\Instructions\SVTCA.cs" />
+    <Compile Include="HintingVM\Instructions\Swap.cs" />
+    <Compile Include="HintingVM\Instructions\SynthToIL.cs" />
+    <Compile Include="HintingVM\Instructions\SZP0.cs" />
+    <Compile Include="HintingVM\Instructions\SZP1.cs" />
+    <Compile Include="HintingVM\Instructions\SZP2.cs" />
+    <Compile Include="HintingVM\Instructions\SZPS.cs" />
+    <Compile Include="HintingVM\Instructions\WCvtF.cs" />
+    <Compile Include="HintingVM\Instructions\WCvtP.cs" />
+    <Compile Include="HintingVM\Instructions\WS.cs" />
+    <Compile Include="HintingVM\IRAssembly.cs" />
+    <Compile Include="HintingVM\IRAssemblyHelper.cs" />
+    <Compile Include="HintingVM\IRInstruction.cs" />
+    <Compile Include="HintingVM\IRLocal.cs" />
+    <Compile Include="HintingVM\IRMethodBuilder.cs" />
+    <Compile Include="HintingVM\IROpCode.cs" />
+    <Compile Include="HintingVM\IROptimizer.cs" />
+    <Compile Include="HintingVM\IRParameter.cs" />
+    <Compile Include="Structures\CMapSubTable.cs" />
+    <Compile Include="Structures\Glyph.cs" />
+    <Compile Include="Structures\SimpleGlyph.cs" />
+    <Compile Include="Structures\TableRecordEntry.cs" />
+    <Compile Include="Tables\BaseTable.cs" />
+    <Compile Include="Tables\CFFTable.cs" />
+    <Compile Include="Tables\CMapTable.cs" />
+    <Compile Include="Tables\CvtTable.cs" />
+    <Compile Include="Tables\DSigTable.cs" />
+    <Compile Include="Tables\FpgmTable.cs" />
+    <Compile Include="Tables\GaspTable.cs" />
+    <Compile Include="Tables\GDefTable.cs" />
+    <Compile Include="Tables\GlyfTable.cs" />
+    <Compile Include="Tables\GPosTable.cs" />
+    <Compile Include="Tables\GSubTable.cs" />
+    <Compile Include="Tables\HDMXTable.cs" />
+    <Compile Include="Tables\HeadTable.cs" />
+    <Compile Include="Tables\HHEATable.cs" />
+    <Compile Include="Tables\HmtxTable.cs" />
+    <Compile Include="Tables\ITable.cs" />
+    <Compile Include="Tables\JSTFTable.cs" />
+    <Compile Include="Tables\KernTable.cs" />
+    <Compile Include="Tables\LocaTable.cs" />
+    <Compile Include="Tables\LTSHTable.cs" />
+    <Compile Include="Tables\MaxPTable.cs" />
+    <Compile Include="Tables\NameTable.cs" />
+    <Compile Include="Tables\OS2Table.cs" />
+    <Compile Include="Tables\PCLTTable.cs" />
+    <Compile Include="Tables\PostTable.cs" />
+    <Compile Include="Tables\PrepTable.cs" />
+    <Compile Include="Tables\TableRegister.cs" />
+    <Compile Include="Tables\VDMXTable.cs" />
+    <Compile Include="Tables\VHEATable.cs" />
+    <Compile Include="Tables\VMTXTable.cs" />
+    <Compile Include="Tables\VORGTable.cs" />
+    <Compile Include="TrueTypeFont.cs" />
+    <Compile Include="Utils\BigEndianBinaryReader.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Tables\ImplementedTables.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Orvid.Config\Orvid.Config.csproj">
+      <Project>{4DEA8AA7-A5CE-4830-950E-E21AB9BE95AC}</Project>
+      <Name>Orvid.Config</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Orvid.TrueType\Orvid.TrueType.csproj">
+      <Project>{61E2EE36-93B9-4452-A4E1-01A455B72439}</Project>
+      <Name>Orvid.TrueType</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="x86.cpud" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

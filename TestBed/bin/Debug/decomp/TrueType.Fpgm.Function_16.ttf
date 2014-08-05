@@ -1,0 +1,8 @@
+FDef
+    Dup[](SyntheticStack)->(IL, IL)
+    RCvt[](ILStack)->IL(As F26Dot6)
+    RS[](0)->IL
+    Add[]((F26Dot6)ILStack, ILStack)->IL(As F26Dot6)
+    WCvtP[](ILStack, ILStack)
+EndF
+Synth-Return->Synth

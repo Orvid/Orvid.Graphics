@@ -1,0 +1,11 @@
+FDef
+    MPPEM[]->IL
+    ComplexIf(SyntheticStack > ILStack)
+        RCvt[](SyntheticStack)->IL(As F26Dot6)
+        WCvtP[](ILStack, SyntheticStack)
+    Else
+        Pop[](SyntheticStack)
+        Pop[](SyntheticStack)
+    EIf
+EndF
+Synth-Return->Synth

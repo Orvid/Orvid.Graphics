@@ -1,0 +1,50 @@
+Synth-LoadInt(26)->Synth
+{
+    0,
+    62,
+    21,
+    21,
+    12,
+    12,
+    6,
+    3,
+    21,
+    239,
+    0,
+    1,
+    0,
+    0,
+    9,
+    18,
+    174,
+    3,
+    15,
+    9,
+    31,
+    9,
+    2,
+    9,
+    9,
+    3,
+}
+MDAP[1](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+DeltaP1[]
+SRP0[](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+SRP1[](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+DeltaP1[]
+AlignRP[]
+SVTCA[0]
+MIAP[1](SyntheticStack, SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+IUP[1]
+IUP[0]
+Synth-Return->Synth

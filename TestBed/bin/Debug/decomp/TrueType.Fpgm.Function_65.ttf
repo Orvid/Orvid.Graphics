@@ -1,0 +1,66 @@
+FDef
+    WS[](0, 2)
+    GetInfo[](1)->IL
+    LTEQ[](ILStack, 35)->IL
+    GetInfo[](1)->IL
+    GTEQ[](ILStack, 64)->IL
+    And[](ILStack, ILStack)->IL
+    If(ILStack)
+        GetInfo[](32)->IL
+        ComplexIf(4096 == ILStack)
+            RS[](2)->IL
+            Add[]((F26Dot6)ILStack, (F26Dot6)1)->IL
+            WS[](ILStack, 2)
+        EIf
+        GetInfo[](1)->IL
+        ComplexIf(36 <= ILStack)
+            GetInfo[](64)->IL
+            ComplexIf(8192 == ILStack)
+                RS[](2)->IL
+                Add[]((F26Dot6)ILStack, (F26Dot6)2)->IL
+                WS[](ILStack, 2)
+                GetInfo[](1)->IL
+                ComplexIf(36 == ILStack)
+                    RS[](2)->IL
+                    Add[]((F26Dot6)ILStack, (F26Dot6)32)->IL
+                    WS[](ILStack, 2)
+                    SVTCA[0]
+                    MPPEM[]->IL
+                    SVTCA[1]
+                    MPPEM[]->IL
+                    ComplexIf(ILStack > ILStack)
+                        RS[](2)->IL
+                        Add[]((F26Dot6)ILStack, (F26Dot6)8)->IL
+                        WS[](ILStack, 2)
+                    EIf
+                Else
+                    GetInfo[](128)->IL
+                    ComplexIf(16384 == ILStack)
+                        RS[](2)->IL
+                        Add[]((F26Dot6)ILStack, (F26Dot6)4)->IL
+                        WS[](ILStack, 2)
+                    EIf
+                    GetInfo[](256)->IL
+                    ComplexIf(32768 == ILStack)
+                        RS[](2)->IL
+                        Add[]((F26Dot6)ILStack, (F26Dot6)8)->IL
+                        WS[](ILStack, 2)
+                    EIf
+                    GetInfo[](512)->IL
+                    ComplexIf(65536 == ILStack)
+                        RS[](2)->IL
+                        Add[]((F26Dot6)ILStack, (F26Dot6)16)->IL
+                        WS[](ILStack, 2)
+                    EIf
+                    GetInfo[](1024)->IL
+                    ComplexIf(131072 == ILStack)
+                        RS[](2)->IL
+                        Add[]((F26Dot6)ILStack, (F26Dot6)64)->IL
+                        WS[](ILStack, 2)
+                    EIf
+                EIf
+            EIf
+        EIf
+    EIf
+EndF
+Synth-Return->Synth

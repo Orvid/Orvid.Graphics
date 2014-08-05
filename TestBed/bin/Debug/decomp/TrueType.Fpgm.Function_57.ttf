@@ -1,0 +1,14 @@
+FDef
+    MPPEM[]->IL
+    EQ[](ILStack, SyntheticStack)->IL
+    RS[](18)->IL
+    Not[](ILStack)->IL
+    And[](ILStack, ILStack)->IL
+    If(ILStack)
+        ShPix[]((F26Dot6)SyntheticStack, ...)
+    Else
+        Pop[](SyntheticStack)
+        Pop[](SyntheticStack)
+    EIf
+EndF
+Synth-Return->Synth

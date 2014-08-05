@@ -1,0 +1,12 @@
+FDef
+    GPV[]->IL
+    Abs[]((F26Dot6)ILStack)->IL
+    Swap[](ILStack, ILStack)->IL
+    Abs[]((F26Dot6)ILStack)->IL
+    Max[](ILStack, ILStack)->IL
+    Div[]((F26Dot6)16384, (F26Dot6)ILStack)->IL(As F26Dot6)
+    Add[](ILStack, (F26Dot6)SyntheticStack)->IL
+    Swap[](ILStack, SyntheticStack)->Synth
+    Pop[](SyntheticStack)
+EndF
+Synth-Return->Synth

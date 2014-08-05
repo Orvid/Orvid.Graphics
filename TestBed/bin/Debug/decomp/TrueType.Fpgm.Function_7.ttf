@@ -1,0 +1,9 @@
+FDef
+    SVTCA[1]
+    SRP0[](SyntheticStack)
+    Dup[](SyntheticStack)->(Synth, Synth)
+    AlignRP[]
+    SVTCA[0]
+    AlignRP[]
+EndF
+Synth-Return->Synth

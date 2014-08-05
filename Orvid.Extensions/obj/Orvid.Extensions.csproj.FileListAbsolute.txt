@@ -1,0 +1,5 @@
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Extensions\bin\Debug\Orvid.Extensions.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Extensions\bin\Debug\Orvid.Extensions.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Extensions\obj\Debug\Orvid.Extensions.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Extensions\obj\Debug\Orvid.Extensions.pdb

@@ -1,0 +1,15 @@
+FDef
+    SRound[](SyntheticStack)
+    WCvtF[](SyntheticStack, 688)
+    SRP0[](SyntheticStack)
+    Dup[](SyntheticStack)->(Synth, Synth)
+    RCvt[](688)->IL
+    Dup[](ILStack)->(Synth, Synth)
+    ComplexIf(SyntheticStack < 0)
+        Sub[]((F26Dot6)1, (F26Dot6)SyntheticStack)->Synth
+    EIf
+    MSIRP[0]((F26Dot6)SyntheticStack, SyntheticStack)
+    MDAP[1](SyntheticStack)
+    RTG[]
+EndF
+Synth-Return->Synth

@@ -1,0 +1,10 @@
+FDef
+    SVTCA[1]
+    CIndex[](6)->Synth
+    SRP0[](SyntheticStack)
+    MIRP[1011](SyntheticStack, SyntheticStack)
+    SVTCA[0]
+    MIRP[0111](SyntheticStack, SyntheticStack)
+    MIRP[0110](SyntheticStack, SyntheticStack)
+EndF
+Synth-Return->Synth

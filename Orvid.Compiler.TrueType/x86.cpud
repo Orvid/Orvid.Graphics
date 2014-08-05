@@ -1,0 +1,40 @@
+cpu "x86";
+
+registers r8 "BaseRegisters_Byte"
+{
+	al		= 0x00,
+	cl		= 0x01,
+	dl		= 0x02,
+	bl		= 0x03,
+	ah		= 0x04,
+	ch		= 0x05,
+	dh		= 0x06,
+	bh		= 0x07,
+}
+
+registers r16 "BaseRegisters_Word"
+{
+	ax		= 0x00,
+	cx		= 0x01,
+	dx		= 0x02,
+	bx		= 0x03,
+	sp		= 0x04,
+	bp1		= 0x05,
+	si		= 0x06,
+	di		= 0x07,
+}
+
+registers r32 "BaseRegisters_DWord"
+{
+	eax		= 0x00,
+	ecx		= 0x01,
+	edx		= 0x02,
+	ebx		= 0x03,
+	esp		= 0x04,
+	ebp		= 0x05,
+	esi		= 0x06,
+	edi		= 0x07,
+}
+
+
+

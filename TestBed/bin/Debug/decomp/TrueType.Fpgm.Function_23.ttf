@@ -1,0 +1,13 @@
+FDef
+    MPPEM[]->IL
+    GTEQ[](ILStack, SyntheticStack)->IL
+    Dup[](ILStack)->(Synth, Synth)
+    Not[](SyntheticStack)->IL
+    If(ILStack)
+        ScanCtrl[](2, SyntheticStack)
+    EIf
+    If(SyntheticStack)
+        ScanCtrl[](1, SyntheticStack)
+    EIf
+EndF
+Synth-Return->Synth

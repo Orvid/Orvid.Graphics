@@ -1,0 +1,9 @@
+FDef
+    RCvt[](SyntheticStack)->Synth
+    Call[](17)
+    WCvtP[]((F26Dot6)SyntheticStack, 23)
+    ROff[]
+    MIRP[0010](23, SyntheticStack)
+    RTG[]
+EndF
+Synth-Return->Synth

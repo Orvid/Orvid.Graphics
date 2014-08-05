@@ -1,0 +1,9 @@
+FDef
+    SVTCA[1]
+    RS[](10)->IL
+    Swap[](ILStack, 11)->Synth
+    RS[](SyntheticStack)->IL
+    Neg[]((F26Dot6)ILStack)->Synth
+    SPVFS[]
+EndF
+Synth-Return->Synth

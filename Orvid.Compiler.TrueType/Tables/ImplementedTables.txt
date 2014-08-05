@@ -1,0 +1,35 @@
+The following tables are currently implemented:
+
+	 1. head
+	 2. maxp
+	 3. hhea
+	 4. os/2
+	 5. loca
+	 6. glyf (Doesn't currently support complex glyphs)
+	 7. hmtx
+	 8. cmap (Missing some map formats)
+	 9. cvt
+	10. fpgm
+	11. prep
+
+
+The following tables aren't currently implemented:
+
+	 1. base
+	 2. cff
+	 3. dsig
+	 4. gasp
+	 5. gdef
+	 6. gpos
+	 7. gsub
+	 8. hdmx
+	 9. jstf
+	10. kern
+	11. ltsh
+	12. name
+	13. pclt
+	14. post
+	15. vdmx
+	16. vhea
+	17. vmtx
+	18. vorg

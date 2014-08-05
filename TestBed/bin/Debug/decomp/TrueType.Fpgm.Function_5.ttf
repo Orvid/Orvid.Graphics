@@ -1,0 +1,14 @@
+FDef
+    RCvt[](SyntheticStack)->IL
+    Swap[](ILStack, SyntheticStack)->IL
+    GC[0](ILStack)->IL(As F26Dot6)
+    Add[](ILStack, (F26Dot6)ILStack)->IL(As F26Dot6)
+    Sub[]((F26Dot6)64, ILStack)->IL
+    Dup[](ILStack)->(Synth, Synth)
+    Add[]((F26Dot6)102, (F26Dot6)SyntheticStack)->Synth
+    MIndex[](4)->Synth
+    Swap[](SyntheticStack, SyntheticStack)->Synth
+    SCFS[]
+    SCFS[]
+EndF
+Synth-Return->Synth

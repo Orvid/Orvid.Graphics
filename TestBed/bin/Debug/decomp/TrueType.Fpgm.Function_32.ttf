@@ -1,0 +1,31 @@
+FDef
+    SVTCA[1]
+    Dup[](SyntheticStack)->(Synth, Synth)
+    CIndex[](3)->Synth
+    Swap[](SyntheticStack, SyntheticStack)->IL
+    MD[0](ILStack, ILStack)->IL(As F26Dot6)
+    Add[]((F26Dot6)64, ILStack)->IL(As F26Dot6)
+    Mul[]((F26Dot6)32, ILStack)->IL
+    Dup[](ILStack)->(Synth, Synth)
+    ComplexIf(SyntheticStack > 0)
+        Swap[](SyntheticStack, SyntheticStack)->Synth
+        CIndex[](2)->Synth
+        ShPix[]((F26Dot6)SyntheticStack, ...)
+        Swap[](SyntheticStack, SyntheticStack)->Synth
+        CIndex[](2)->Synth
+        Neg[]((F26Dot6)SyntheticStack)->IL(As F26Dot6)
+        ShPix[](ILStack, ...)
+        SVTCA[0]
+        Roll[](SyntheticStack, SyntheticStack, SyntheticStack)->Synth
+        Mul[]((F26Dot6)SyntheticStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+        ShPix[](ILStack, ...)
+    Else
+        Pop[](SyntheticStack)
+        Pop[](SyntheticStack)
+        Pop[](SyntheticStack)
+        Pop[](SyntheticStack)
+        Pop[](SyntheticStack)
+    EIf
+    SVTCA[1]
+EndF
+Synth-Return->Synth

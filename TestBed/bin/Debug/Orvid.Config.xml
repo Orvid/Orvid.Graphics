@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Orvid.Config</name>
+    </assembly>
+    <members>
+        <member name="T:Orvid.Config.FontSettings">
+            <summary>
+            This class contains the settings for
+            font rendering.
+            </summary>
+        </member>
+        <member name="F:Orvid.Config.FontSettings.DotsPerInch">
+            <summary>
+            This setting controls the 
+            Dots Per Inch (DPI) that 
+            fonts are rendered at.
+            </summary>
+        </member>
+        <member name="F:Orvid.Config.FontSettings.VerticalDPI">
+            <summary>
+            This setting is the vertical
+            Dots Per Inch (DPI) of the screen.
+            </summary>
+        </member>
+        <member name="F:Orvid.Config.FontSettings.HorizontalDPI">
+            <summary>
+            This setting is the horizontal
+            Dots Per Inch (DPI) of the screen.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,16 @@
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\bin\Debug\Orvid.Graphics.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\bin\Debug\Orvid.Graphics.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\bin\Debug\Orvid.Compression.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\bin\Debug\Orvid.Config.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\bin\Debug\Orvid.Extensions.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\bin\Debug\Orvid.Graphics.Dependancies.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\bin\Debug\Orvid.TrueType.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\bin\Debug\Orvid.Extensions.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\bin\Debug\Orvid.Graphics.Dependancies.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\bin\Debug\Orvid.Compression.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\bin\Debug\Orvid.TrueType.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\bin\Debug\Orvid.Config.pdb
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\bin\Debug\Orvid.Config.xml
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\obj\Debug\Orvid.Graphics.dll
+C:\Documents and Settings\dyke5094\My Documents\Computer Programming\Other\Orvid\Orvid.Graphics\obj\Debug\Orvid.Graphics.pdb

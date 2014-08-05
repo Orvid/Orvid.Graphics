@@ -1,0 +1,28 @@
+Synth-LoadInt(11)->Synth
+{
+    4,
+    893,
+    12,
+    -64,
+    48,
+    49,
+    52,
+    12,
+    -64,
+    8,
+    11,
+}
+MDAP[1](0)
+MIRP[0111](892, 8)
+MIRP[1010](52, 16)
+MIRP[0111](892, 24)
+SVTCA[0]
+MIAP[1](894, 28)
+MIRP[1111](893, 20)
+MIRP[1112](896, 12)
+Call[](52)
+Call[](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+IUP[1]
+IUP[0]
+Synth-Return->Synth

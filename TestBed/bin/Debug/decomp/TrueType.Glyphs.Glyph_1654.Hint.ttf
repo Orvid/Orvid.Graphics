@@ -1,0 +1,10 @@
+SVTCA[0]
+MDAP[1](0)
+MIRP[0111](925, 2)
+SVTCA[1]
+MDAP[1](0)
+SRP0[](5)
+MDRP[0000](3)
+IUP[1]
+IUP[0]
+Synth-Return->Synth

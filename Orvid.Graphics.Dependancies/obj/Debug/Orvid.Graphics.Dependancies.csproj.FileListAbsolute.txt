@@ -1,0 +1,4 @@
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics.Dependancies\bin\Debug\Orvid.Graphics.Dependancies.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics.Dependancies\bin\Debug\Orvid.Graphics.Dependancies.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics.Dependancies\obj\Debug\Orvid.Graphics.Dependancies.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics.Dependancies\obj\Debug\Orvid.Graphics.Dependancies.pdb

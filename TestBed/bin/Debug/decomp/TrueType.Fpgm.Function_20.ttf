@@ -1,0 +1,6 @@
+FDef
+    RCvt[](SyntheticStack)->Synth
+    Call[](17)
+    WCvtP[]((F26Dot6)SyntheticStack, 23)
+EndF
+Synth-Return->Synth

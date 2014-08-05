@@ -1,0 +1,71 @@
+Synth-LoadInt(38)->Synth
+{
+    9,
+    25,
+    1,
+    1,
+    0,
+    5,
+    16,
+    9,
+    20,
+    0,
+    182,
+    13,
+    64,
+    20,
+    3,
+    28,
+    23,
+    23,
+    26,
+    5,
+    58,
+    15,
+    23,
+    31,
+    23,
+    128,
+    23,
+    3,
+    23,
+    298,
+    16,
+    25,
+    27,
+    28,
+    298,
+    33,
+    210,
+    317,
+}
+Call[](24)
+Call[](SyntheticStack)
+FlipOff[]
+MIRP[1010](SyntheticStack, SyntheticStack)
+FlipOn[]
+MIRP[1111](SyntheticStack, SyntheticStack)
+DeltaP1[]
+MIRP[0111](SyntheticStack, SyntheticStack)
+FlipOff[]
+RCvt[](SyntheticStack)->IL(As F26Dot6)
+Neg[](ILStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+MIRP[0012](SyntheticStack, SyntheticStack)
+SVTCA[0]
+MIAP[1](SyntheticStack, SyntheticStack)
+FlipOn[]
+MIRP[1111](SyntheticStack, SyntheticStack)
+MIRP[0010](SyntheticStack, SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+SVTCA[1]
+SRP1[](SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+IP[]
+IUP[1]
+IUP[0]
+SVTCA[1]
+DeltaP1[]
+Synth-Return->Synth

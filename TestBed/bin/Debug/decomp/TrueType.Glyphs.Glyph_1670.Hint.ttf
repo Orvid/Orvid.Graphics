@@ -1,0 +1,198 @@
+Synth-LoadInt(119)->Synth
+{
+    24,
+    32,
+    18,
+    25,
+    52,
+    32,
+    -32,
+    22,
+    33,
+    52,
+    18,
+    -64,
+    17,
+    21,
+    52,
+    18,
+    -79,
+    12,
+    16,
+    52,
+    31,
+    9,
+    1,
+    3,
+    9,
+    9,
+    15,
+    23,
+    15,
+    29,
+    31,
+    29,
+    47,
+    29,
+    3,
+    13,
+    4,
+    29,
+    31,
+    32,
+    1,
+    -32,
+    9,
+    31,
+    52,
+    1,
+    0,
+    3,
+    3,
+    -64,
+    24,
+    27,
+    52,
+    3,
+    35,
+    15,
+    15,
+    31,
+    15,
+    2,
+    16,
+    3,
+    15,
+    31,
+    33,
+    33,
+    7,
+    963,
+    11,
+    64,
+    11,
+    -64,
+    12,
+    17,
+    52,
+    0,
+    11,
+    1,
+    19,
+    3,
+    11,
+    22,
+    17,
+    -64,
+    22,
+    64,
+    52,
+    17,
+    -38,
+    18,
+    21,
+    52,
+    17,
+    -64,
+    12,
+    17,
+    52,
+    17,
+    29,
+    23,
+    963,
+    64,
+    0,
+    22,
+    16,
+    22,
+    64,
+    22,
+    3,
+    17,
+    3,
+    22,
+    29,
+    1,
+    -32,
+    9,
+    31,
+    52,
+    1,
+}
+MDAP[1](29)
+SRP0[](38)
+MDRP[0012](0)
+ShP[0]
+Call[](SyntheticStack)
+SVTCA[1]
+RTG[]
+SRP0[](SyntheticStack)
+MDRP[1010](SyntheticStack)
+SDS[](SyntheticStack)
+SDB[](SyntheticStack)
+DeltaP1[]
+SMD[]((F26Dot6)SyntheticStack)
+FlipOn[]
+MIRP[0111](SyntheticStack, SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SVTCA[1]
+RTG[]
+SRP0[](SyntheticStack)
+MDRP[0012](SyntheticStack)
+SDS[](SyntheticStack)
+SDB[](SyntheticStack)
+DeltaP1[]
+Call[](SyntheticStack)
+SVTCA[1]
+SMD[]((F26Dot6)SyntheticStack)
+RTG[]
+SRP0[](SyntheticStack)
+FlipOn[]
+MIRP[0111](SyntheticStack, SyntheticStack)
+IP[]
+RTHG[]
+MDAP[1](SyntheticStack)
+SVTCA[0]
+RTG[]
+MDAP[1](SyntheticStack)
+MDRP[0111](SyntheticStack)
+SDS[](SyntheticStack)
+SDB[](SyntheticStack)
+DeltaP1[]
+MDRP[1000](SyntheticStack)
+MDRP[0111](SyntheticStack)
+Call[](SyntheticStack)
+SVTCA[0]
+RTHG[]
+SRP0[](SyntheticStack)
+MDRP[0010](SyntheticStack)
+ShP[0]
+Call[](SyntheticStack)
+SVTCA[0]
+SMD[]((F26Dot6)SyntheticStack)
+RTHG[]
+SRP0[](SyntheticStack)
+MDRP[0111](SyntheticStack)
+SDS[](SyntheticStack)
+SDB[](SyntheticStack)
+DeltaP1[]
+RTG[]
+MDAP[1](SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+MDAP[1](SyntheticStack)
+SDS[](SyntheticStack)
+DeltaP1[]
+IUP[1]
+IUP[0]
+SVTCA[1]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Synth-Return->Synth

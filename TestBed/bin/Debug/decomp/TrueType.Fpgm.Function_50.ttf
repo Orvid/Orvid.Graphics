@@ -1,0 +1,19 @@
+FDef
+    MPPEM[]->IL
+    GTEQ[](ILStack, SyntheticStack)->IL
+    Swap[](ILStack, SyntheticStack)->IL
+    MPPEM[]->IL
+    LTEQ[](ILStack, ILStack)->IL
+    And[](ILStack, ILStack)->IL
+    If(ILStack)
+        Dup[](SyntheticStack)->(IL, IL)
+        RCvt[](ILStack)->IL
+        Roll[](ILStack, ILStack, SyntheticStack)->IL
+        Add[]((F26Dot6)ILStack, (F26Dot6)ILStack)->IL(As F26Dot6)
+        WCvtP[](ILStack, ILStack)
+    Else
+        Pop[](SyntheticStack)
+        Pop[](SyntheticStack)
+    EIf
+EndF
+Synth-Return->Synth

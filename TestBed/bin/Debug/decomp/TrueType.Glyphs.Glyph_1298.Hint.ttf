@@ -1,0 +1,351 @@
+Synth-LoadInt(230)->Synth
+{
+    137,
+    8,
+    136,
+    35,
+    185,
+    113,
+    3,
+    123,
+    8,
+    121,
+    35,
+    134,
+    28,
+    3,
+    90,
+    3,
+    90,
+    62,
+    106,
+    3,
+    106,
+    62,
+    118,
+    28,
+    5,
+    10,
+    108,
+    26,
+    63,
+    41,
+    63,
+    3,
+    217,
+    35,
+    214,
+    116,
+    2,
+    1,
+    50,
+    119,
+    119,
+    97,
+    32,
+    32,
+    54,
+    23,
+    31,
+    27,
+    19,
+    33,
+    34,
+    13,
+    31,
+    27,
+    18,
+    33,
+    35,
+    72,
+    31,
+    27,
+    76,
+    33,
+    35,
+    81,
+    31,
+    27,
+    77,
+    33,
+    34,
+    38,
+    35,
+    35,
+    36,
+    30,
+    28,
+    20,
+    30,
+    30,
+    28,
+    113,
+    116,
+    116,
+    36,
+    6,
+    8,
+    20,
+    6,
+    6,
+    8,
+    38,
+    28,
+    35,
+    3,
+    116,
+    113,
+    6,
+    8,
+    4,
+    76,
+    19,
+    111,
+    111,
+    71,
+    40,
+    40,
+    24,
+    82,
+    71,
+    73,
+    12,
+    24,
+    24,
+    76,
+    19,
+    119,
+    -64,
+    14,
+    17,
+    52,
+    119,
+    32,
+    50,
+    31,
+    103,
+    54,
+    26,
+    29,
+    52,
+    103,
+    103,
+    93,
+    100,
+    64,
+    16,
+    17,
+    52,
+    100,
+    44,
+    26,
+    29,
+    52,
+    100,
+    100,
+    93,
+    93,
+    76,
+    48,
+    54,
+    26,
+    29,
+    52,
+    48,
+    48,
+    58,
+    51,
+    64,
+    16,
+    17,
+    52,
+    51,
+    44,
+    26,
+    29,
+    52,
+    51,
+    51,
+    58,
+    58,
+    77,
+    76,
+    2,
+    31,
+    30,
+    19,
+    1,
+    1,
+    5,
+    18,
+    19,
+    8,
+    30,
+    38,
+    28,
+    35,
+    40,
+    5,
+    54,
+    23,
+    116,
+    113,
+    6,
+    8,
+    111,
+    5,
+    97,
+    13,
+    0,
+    54,
+    1,
+    54,
+    54,
+    13,
+    97,
+    97,
+    72,
+    23,
+    81,
+    13,
+    34,
+    72,
+    15,
+    23,
+    1,
+    63,
+    23,
+    111,
+    23,
+    143,
+    23,
+    223,
+    23,
+    255,
+    23,
+    5,
+    127,
+    23,
+    207,
+    23,
+    2,
+    23,
+}
+MDAP[1](SyntheticStack)
+DeltaP1[]
+DeltaP2[]
+DeltaP3[]
+MDRP[0000](SyntheticStack)
+MIRP[1111](SyntheticStack, SyntheticStack)
+MDRP[0000](SyntheticStack)
+SRP0[](SyntheticStack)
+MDRP[0000](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+SRP1[](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+DeltaP1[]
+SRP1[](SyntheticStack)
+SRP2[](SyntheticStack)
+SLoop[](SyntheticStack)
+IP[]
+SRP1[](SyntheticStack)
+SRP2[](SyntheticStack)
+SLoop[](SyntheticStack)
+IP[]
+SVTCA[0]
+MIAP[1](SyntheticStack, SyntheticStack)
+MDRP[1000](SyntheticStack)
+MDRP[0000](SyntheticStack)
+ShP[0]
+MDAP[1](SyntheticStack)
+SRP0[](SyntheticStack)
+MDRP[1000](SyntheticStack)
+MDRP[0000](SyntheticStack)
+MIAP[1](SyntheticStack, SyntheticStack)
+MDRP[0000](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+MDAP[1](SyntheticStack)
+Call[](SyntheticStack)
+SRP1[](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+MDAP[1](SyntheticStack)
+Call[](SyntheticStack)
+SRP0[](SyntheticStack)
+MIRP[1111](SyntheticStack, SyntheticStack)
+MDRP[0000](SyntheticStack)
+Call[](SyntheticStack)
+SRP1[](SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+MDAP[1](SyntheticStack)
+MDRP[0000](SyntheticStack)
+MIRP[1111](SyntheticStack, SyntheticStack)
+MDRP[0000](SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+RTHG[]
+MDAP[1](SyntheticStack)
+SRP1[](SyntheticStack)
+IP[]
+MDAP[1](SyntheticStack)
+SRP1[](SyntheticStack)
+SRP2[](SyntheticStack)
+SLoop[](SyntheticStack)
+IP[]
+SLoop[](SyntheticStack)
+IP[]
+SDPVTL[1](SyntheticStack, SyntheticStack)
+SFVTPV[]
+MDAP[0](SyntheticStack)
+RTG[]
+Call[](SyntheticStack)
+RDTG[]
+SRP0[](SyntheticStack)
+MDRP[0010](SyntheticStack)
+SDPVTL[1](SyntheticStack, SyntheticStack)
+SFVTPV[]
+MDAP[0](SyntheticStack)
+RTG[]
+Call[](SyntheticStack)
+RDTG[]
+SRP0[](SyntheticStack)
+MDRP[0010](SyntheticStack)
+RTG[]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SVTCA[1]
+SRP1[](SyntheticStack)
+ShP[1]
+RTG[]
+MDAP[1](SyntheticStack)
+SRP1[](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+DeltaP1[]
+IUP[1]
+IUP[0]
+SVTCA[1]
+DeltaP1[]
+DeltaP1[]
+DeltaP1[]
+DeltaP1[]
+Synth-Return->Synth

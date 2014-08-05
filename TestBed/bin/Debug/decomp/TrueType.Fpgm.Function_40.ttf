@@ -1,0 +1,7 @@
+FDef
+    SVTCA[0]
+    RS[](7)->Synth
+    RS[](6)->Synth
+    SFVFS[]
+EndF
+Synth-Return->Synth

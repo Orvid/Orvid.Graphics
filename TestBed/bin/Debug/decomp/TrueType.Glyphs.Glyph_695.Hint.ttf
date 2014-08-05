@@ -1,0 +1,152 @@
+Synth-LoadInt(92)->Synth
+{
+    2,
+    44,
+    19,
+    20,
+    52,
+    119,
+    35,
+    1,
+    55,
+    0,
+    73,
+    13,
+    2,
+    150,
+    0,
+    1,
+    1,
+    13,
+    14,
+    0,
+    4,
+    28,
+    9,
+    37,
+    40,
+    36,
+    26,
+    25,
+    879,
+    28,
+    20,
+    21,
+    877,
+    29,
+    28,
+    874,
+    9,
+    41,
+    40,
+    36,
+    875,
+    40,
+    5,
+    900,
+    11,
+    64,
+    21,
+    22,
+    52,
+    79,
+    11,
+    1,
+    11,
+    64,
+    9,
+    11,
+    52,
+    11,
+    11,
+    33,
+    23,
+    36,
+    40,
+    41,
+    41,
+    42,
+    16,
+    9,
+    17,
+    6,
+    85,
+    42,
+    885,
+    38,
+    37,
+    37,
+    23,
+    26,
+    882,
+    25,
+    883,
+    23,
+    17,
+    16,
+    -16,
+    9,
+    16,
+    6,
+    85,
+    16,
+    885,
+    32,
+}
+SRP0[](44)
+MIRP[0012](915, 23)
+SRP0[](45)
+MIRP[1012](923, 33)
+AlignRP[]
+MIRP[1111](SyntheticStack, SyntheticStack)
+Call[](SyntheticStack)
+AlignRP[]
+SRP0[](SyntheticStack)
+MIRP[1010](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+SRP1[](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+AlignRP[]
+MIRP[1111](SyntheticStack, SyntheticStack)
+Call[](SyntheticStack)
+AlignRP[]
+SRP2[](SyntheticStack)
+IP[]
+IP[]
+SRP1[](SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+MDAP[1](SyntheticStack)
+Call[](SyntheticStack)
+DeltaP1[]
+Call[](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+SVTCA[0]
+MDAP[1](SyntheticStack)
+MIAP[1](SyntheticStack, SyntheticStack)
+SRP0[](SyntheticStack)
+AlignRP[]
+MDAP[1](SyntheticStack)
+MIAP[1](SyntheticStack, SyntheticStack)
+AlignRP[]
+MIRP[1111](SyntheticStack, SyntheticStack)
+AlignRP[]
+SRP0[](SyntheticStack)
+MIRP[1010](SyntheticStack, SyntheticStack)
+AlignRP[]
+SRP1[](SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+SRP1[](SyntheticStack)
+SRP2[](SyntheticStack)
+SLoop[](SyntheticStack)
+IP[]
+IUP[1]
+IUP[0]
+SVTCA[1]
+DeltaP2[]
+DeltaP1[]
+DeltaP1[]
+Call[](SyntheticStack)
+Synth-Return->Synth

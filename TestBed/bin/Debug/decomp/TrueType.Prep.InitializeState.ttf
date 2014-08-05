@@ -1,0 +1,2442 @@
+Synth-LoadInt(1459)->Synth
+{
+    84,
+    -64,
+    993,
+    69,
+    69,
+    50,
+    64,
+    993,
+    43,
+    46,
+    50,
+    64,
+    993,
+    40,
+    41,
+    50,
+    -64,
+    993,
+    26,
+    28,
+    50,
+    993,
+    684,
+    39,
+    31,
+    -64,
+    991,
+    22,
+    27,
+    50,
+    -64,
+    990,
+    66,
+    66,
+    50,
+    -64,
+    990,
+    54,
+    56,
+    50,
+    -64,
+    990,
+    42,
+    45,
+    50,
+    223,
+    990,
+    239,
+    990,
+    2,
+    990,
+    991,
+    40,
+    31,
+    -64,
+    991,
+    40,
+    46,
+    50,
+    240,
+    991,
+    1,
+    894,
+    15,
+    257,
+    31,
+    160,
+    989,
+    176,
+    989,
+    2,
+    64,
+    986,
+    36,
+    38,
+    50,
+    159,
+    972,
+    1,
+    970,
+    969,
+    100,
+    31,
+    -64,
+    969,
+    13,
+    17,
+    50,
+    967,
+    951,
+    18,
+    31,
+    950,
+    949,
+    100,
+    31,
+    -64,
+    949,
+    14,
+    17,
+    50,
+    0,
+    909,
+    1,
+    192,
+    909,
+    208,
+    909,
+    224,
+    909,
+    240,
+    909,
+    4,
+    111,
+    935,
+    127,
+    935,
+    143,
+    935,
+    175,
+    935,
+    4,
+    15,
+    935,
+    31,
+    935,
+    47,
+    935,
+    79,
+    935,
+    4,
+    939,
+    939,
+    239,
+    933,
+    1,
+    15,
+    933,
+    47,
+    933,
+    111,
+    933,
+    143,
+    933,
+    4,
+    84,
+    938,
+    1,
+    107,
+    938,
+    1,
+    936,
+    874,
+    34,
+    31,
+    908,
+    916,
+    21,
+    31,
+    907,
+    915,
+    21,
+    31,
+    932,
+    915,
+    26,
+    31,
+    930,
+    916,
+    30,
+    31,
+    929,
+    915,
+    30,
+    31,
+    927,
+    916,
+    30,
+    31,
+    923,
+    916,
+    26,
+    31,
+    922,
+    915,
+    30,
+    31,
+    921,
+    916,
+    22,
+    31,
+    920,
+    916,
+    22,
+    31,
+    919,
+    915,
+    27,
+    31,
+    918,
+    916,
+    27,
+    31,
+    917,
+    915,
+    27,
+    31,
+    886,
+    885,
+    26,
+    31,
+    884,
+    885,
+    26,
+    31,
+    928,
+    883,
+    30,
+    31,
+    16,
+    915,
+    32,
+    915,
+    48,
+    915,
+    3,
+    32,
+    916,
+    48,
+    916,
+    64,
+    916,
+    3,
+    0,
+    916,
+    1,
+    899,
+    876,
+    30,
+    31,
+    945,
+    876,
+    50,
+    31,
+    877,
+    876,
+    50,
+    31,
+    -64,
+    893,
+    33,
+    35,
+    50,
+    -64,
+    893,
+    23,
+    25,
+    50,
+    160,
+    893,
+    176,
+    893,
+    192,
+    893,
+    208,
+    893,
+    4,
+    -64,
+    892,
+    33,
+    35,
+    50,
+    -64,
+    892,
+    23,
+    25,
+    50,
+    160,
+    892,
+    176,
+    892,
+    192,
+    892,
+    208,
+    892,
+    4,
+    48,
+    883,
+    64,
+    883,
+    2,
+    0,
+    883,
+    16,
+    883,
+    32,
+    883,
+    3,
+    224,
+    883,
+    240,
+    883,
+    2,
+    176,
+    883,
+    192,
+    883,
+    208,
+    883,
+    3,
+    132,
+    883,
+    144,
+    883,
+    160,
+    883,
+    3,
+    887,
+    874,
+    41,
+    31,
+    905,
+    874,
+    40,
+    31,
+    64,
+    871,
+    57,
+    64,
+    50,
+    63,
+    870,
+    1,
+    64,
+    870,
+    25,
+    29,
+    50,
+    143,
+    870,
+    1,
+    64,
+    870,
+    9,
+    10,
+    50,
+    64,
+    870,
+    9,
+    14,
+    50,
+    64,
+    870,
+    9,
+    15,
+    50,
+    63,
+    869,
+    1,
+    64,
+    869,
+    9,
+    12,
+    50,
+    64,
+    869,
+    26,
+    29,
+    50,
+    64,
+    869,
+    9,
+    14,
+    50,
+    107,
+    867,
+    123,
+    867,
+    2,
+    20,
+    867,
+    36,
+    867,
+    52,
+    867,
+    68,
+    867,
+    4,
+    867,
+    36,
+    47,
+    31,
+    846,
+    109,
+    2048,
+    31,
+    127,
+    2,
+    127,
+    3,
+    127,
+    4,
+    127,
+    5,
+    4,
+    48,
+    68,
+    1,
+    18,
+    818,
+    80,
+    2048,
+    31,
+    18,
+    813,
+    60,
+    2048,
+    31,
+    95,
+    60,
+    1,
+    55,
+    96,
+    9,
+    112,
+    9,
+    128,
+    9,
+    3,
+    16,
+    9,
+    32,
+    9,
+    48,
+    9,
+    64,
+    9,
+    80,
+    9,
+    5,
+    111,
+    3,
+    127,
+    3,
+    143,
+    3,
+    3,
+    31,
+    3,
+    47,
+    3,
+    63,
+    3,
+    79,
+    3,
+    95,
+    3,
+    5,
+    -64,
+    7,
+    58,
+    51,
+    -64,
+    6,
+    58,
+    51,
+    144,
+    11,
+    160,
+    11,
+    176,
+    11,
+    192,
+    11,
+    208,
+    11,
+    5,
+    176,
+    6,
+    192,
+    6,
+    208,
+    6,
+    224,
+    6,
+    240,
+    6,
+    5,
+    32,
+    6,
+    48,
+    6,
+    64,
+    6,
+    80,
+    6,
+    96,
+    6,
+    112,
+    6,
+    128,
+    6,
+    144,
+    6,
+    160,
+    6,
+    9,
+    144,
+    6,
+    144,
+    7,
+    2,
+    96,
+    11,
+    112,
+    11,
+    128,
+    11,
+    3,
+    16,
+    11,
+    32,
+    11,
+    48,
+    11,
+    64,
+    11,
+    80,
+    11,
+    5,
+    31,
+    7,
+    1,
+    160,
+    866,
+    1,
+    0,
+    866,
+    16,
+    866,
+    112,
+    866,
+    144,
+    866,
+    4,
+    240,
+    863,
+    1,
+    32,
+    862,
+    32,
+    863,
+    48,
+    863,
+    64,
+    862,
+    4,
+    0,
+    862,
+    0,
+    863,
+    16,
+    863,
+    208,
+    862,
+    224,
+    863,
+    5,
+    16,
+    783,
+    32,
+    783,
+    48,
+    783,
+    208,
+    783,
+    224,
+    783,
+    5,
+    0,
+    783,
+    16,
+    783,
+    80,
+    783,
+    96,
+    783,
+    112,
+    783,
+    208,
+    783,
+    6,
+    0,
+    783,
+    16,
+    783,
+    32,
+    783,
+    48,
+    783,
+    224,
+    783,
+    240,
+    783,
+    6,
+    783,
+    39,
+    0,
+    782,
+    48,
+    782,
+    2,
+    224,
+    782,
+    240,
+    782,
+    2,
+    782,
+    74,
+    224,
+    781,
+    240,
+    781,
+    2,
+    781,
+    39,
+    208,
+    764,
+    1,
+    16,
+    764,
+    32,
+    764,
+    80,
+    764,
+    3,
+    208,
+    764,
+    224,
+    764,
+    2,
+    0,
+    764,
+    16,
+    764,
+    32,
+    764,
+    48,
+    764,
+    80,
+    764,
+    96,
+    764,
+    6,
+    224,
+    764,
+    240,
+    764,
+    2,
+    32,
+    764,
+    48,
+    764,
+    64,
+    764,
+    3,
+    764,
+    39,
+    192,
+    41,
+    1,
+    176,
+    41,
+    1,
+    160,
+    41,
+    1,
+    144,
+    41,
+    1,
+    64,
+    60,
+    63,
+    65,
+    50,
+    64,
+    34,
+    63,
+    65,
+    50,
+    18,
+    18,
+    18,
+    95,
+    35,
+    95,
+    37,
+    95,
+    40,
+    95,
+    165,
+    4,
+    111,
+    35,
+    111,
+    37,
+    111,
+    40,
+    111,
+    165,
+    4,
+    79,
+    35,
+    79,
+    37,
+    79,
+    40,
+    79,
+    165,
+    4,
+    63,
+    35,
+    63,
+    37,
+    63,
+    40,
+    63,
+    165,
+    4,
+    47,
+    35,
+    47,
+    37,
+    47,
+    40,
+    47,
+    165,
+    4,
+    31,
+    35,
+    31,
+    37,
+    31,
+    40,
+    31,
+    165,
+    4,
+    143,
+    76,
+    175,
+    76,
+    191,
+    76,
+    207,
+    76,
+    4,
+    95,
+    76,
+    111,
+    76,
+    127,
+    76,
+    3,
+    55,
+    -64,
+    178,
+    43,
+    48,
+    50,
+    -64,
+    178,
+    34,
+    37,
+    50,
+    -64,
+    178,
+    25,
+    26,
+    50,
+    55,
+    15,
+    687,
+    1,
+    95,
+    687,
+    159,
+    687,
+    223,
+    687,
+    3,
+    31,
+    687,
+    47,
+    687,
+    63,
+    687,
+    111,
+    687,
+    4,
+    687,
+    687,
+    31,
+    685,
+    47,
+    685,
+    63,
+    685,
+    79,
+    685,
+    95,
+    685,
+    5,
+    223,
+    685,
+    1,
+    15,
+    685,
+    31,
+    685,
+    63,
+    685,
+    95,
+    685,
+    159,
+    685,
+    5,
+    95,
+    685,
+    223,
+    685,
+    2,
+    15,
+    685,
+    31,
+    685,
+    63,
+    685,
+    3,
+    64,
+    684,
+    58,
+    51,
+    79,
+    684,
+    95,
+    684,
+    159,
+    684,
+    3,
+    47,
+    684,
+    63,
+    684,
+    2,
+    15,
+    684,
+    63,
+    684,
+    175,
+    684,
+    3,
+    176,
+    684,
+    224,
+    684,
+    2,
+    79,
+    684,
+    95,
+    684,
+    160,
+    684,
+    3,
+    31,
+    684,
+    47,
+    684,
+    63,
+    684,
+    3,
+    15,
+    858,
+    1,
+    15,
+    858,
+    31,
+    858,
+    63,
+    858,
+    95,
+    858,
+    112,
+    858,
+    5,
+    207,
+    855,
+    223,
+    855,
+    2,
+    15,
+    855,
+    31,
+    855,
+    112,
+    855,
+    175,
+    855,
+    4,
+    858,
+    858,
+    855,
+    855,
+    685,
+    685,
+    684,
+    684,
+    812,
+    49,
+    21,
+    31,
+    0,
+    22,
+    22,
+    0,
+    0,
+    0,
+    18,
+    17,
+    8,
+    16,
+    524,
+    74,
+    13,
+    424,
+    74,
+    13,
+    408,
+    74,
+    13,
+    393,
+    74,
+    13,
+    319,
+    74,
+    13,
+    292,
+    74,
+    13,
+    246,
+    74,
+    13,
+    190,
+    74,
+    13,
+    134,
+    74,
+    13,
+    39,
+    74,
+    13,
+    552,
+    65,
+    13,
+    404,
+    65,
+    13,
+    289,
+    65,
+    13,
+    180,
+    65,
+    13,
+    79,
+    65,
+    13,
+    41,
+    65,
+    13,
+    535,
+    33,
+    13,
+    533,
+    33,
+    13,
+    518,
+    33,
+    13,
+    491,
+    33,
+    13,
+    334,
+    33,
+    13,
+    300,
+    33,
+    13,
+    249,
+    33,
+    13,
+    243,
+    33,
+    13,
+    241,
+    33,
+    13,
+    157,
+    33,
+    13,
+    113,
+    33,
+    13,
+    61,
+    33,
+    13,
+    540,
+    31,
+    13,
+    532,
+    31,
+    13,
+    523,
+    31,
+    13,
+    406,
+    31,
+    13,
+    330,
+    31,
+    13,
+    294,
+    31,
+    13,
+    198,
+    31,
+    13,
+    87,
+    31,
+    13,
+    55,
+    31,
+    13,
+    414,
+    321,
+    13,
+    66,
+    321,
+    13,
+    30,
+    321,
+    13,
+    27,
+    321,
+    13,
+    498,
+    15,
+    68,
+    15,
+    0,
+    9,
+    498,
+    68,
+    13,
+    513,
+    60,
+    41,
+    31,
+    512,
+    60,
+    41,
+    31,
+    511,
+    60,
+    65,
+    31,
+    510,
+    60,
+    71,
+    31,
+    509,
+    60,
+    158,
+    31,
+    506,
+    60,
+    147,
+    31,
+    505,
+    271,
+    257,
+    31,
+    502,
+    36,
+    228,
+    31,
+    500,
+    329,
+    1025,
+    31,
+    499,
+    329,
+    1025,
+    31,
+    497,
+    329,
+    171,
+    31,
+    496,
+    329,
+    103,
+    31,
+    422,
+    60,
+    293,
+    31,
+    420,
+    60,
+    129,
+    31,
+    419,
+    271,
+    410,
+    31,
+    418,
+    34,
+    2049,
+    31,
+    417,
+    80,
+    1025,
+    31,
+    415,
+    329,
+    410,
+    31,
+    413,
+    329,
+    103,
+    31,
+    412,
+    44,
+    98,
+    31,
+    411,
+    44,
+    121,
+    31,
+    410,
+    44,
+    257,
+    31,
+    407,
+    44,
+    228,
+    31,
+    403,
+    44,
+    137,
+    31,
+    402,
+    44,
+    108,
+    31,
+    399,
+    37,
+    158,
+    31,
+    362,
+    60,
+    42,
+    31,
+    359,
+    36,
+    513,
+    31,
+    355,
+    37,
+    683,
+    31,
+    332,
+    271,
+    410,
+    31,
+    328,
+    329,
+    108,
+    31,
+    327,
+    44,
+    137,
+    31,
+    325,
+    44,
+    158,
+    31,
+    324,
+    44,
+    121,
+    31,
+    323,
+    35,
+    49,
+    31,
+    295,
+    60,
+    129,
+    31,
+    291,
+    80,
+    257,
+    31,
+    287,
+    35,
+    228,
+    31,
+    285,
+    35,
+    410,
+    31,
+    284,
+    35,
+    2049,
+    31,
+    283,
+    37,
+    2049,
+    31,
+    270,
+    271,
+    1025,
+    31,
+    269,
+    34,
+    1025,
+    31,
+    264,
+    35,
+    129,
+    31,
+    262,
+    37,
+    228,
+    31,
+    247,
+    60,
+    293,
+    31,
+    245,
+    271,
+    158,
+    31,
+    227,
+    329,
+    342,
+    31,
+    226,
+    329,
+    171,
+    31,
+    209,
+    329,
+    1025,
+    31,
+    207,
+    44,
+    293,
+    31,
+    206,
+    35,
+    187,
+    31,
+    197,
+    36,
+    342,
+    31,
+    192,
+    44,
+    2049,
+    31,
+    191,
+    44,
+    513,
+    31,
+    177,
+    36,
+    228,
+    31,
+    176,
+    329,
+    513,
+    31,
+    175,
+    44,
+    103,
+    31,
+    173,
+    35,
+    2049,
+    31,
+    165,
+    35,
+    513,
+    31,
+    159,
+    60,
+    45,
+    31,
+    155,
+    35,
+    90,
+    31,
+    153,
+    37,
+    513,
+    31,
+    129,
+    44,
+    1025,
+    31,
+    109,
+    271,
+    342,
+    31,
+    89,
+    44,
+    62,
+    31,
+    76,
+    60,
+    171,
+    31,
+    70,
+    37,
+    257,
+    31,
+    64,
+    60,
+    293,
+    31,
+    58,
+    35,
+    114,
+    31,
+    57,
+    60,
+    171,
+    31,
+    56,
+    329,
+    171,
+    31,
+    49,
+    36,
+    1025,
+    31,
+    48,
+    37,
+    683,
+    31,
+    42,
+    36,
+    228,
+    31,
+    38,
+    35,
+    342,
+    31,
+    85,
+    55,
+    565,
+    7,
+    373,
+    7,
+    116,
+    7,
+    98,
+    7,
+    86,
+    7,
+    81,
+    7,
+    59,
+    7,
+    51,
+    7,
+    45,
+    7,
+    32,
+    7,
+    29,
+    7,
+    28,
+    7,
+    20,
+    8,
+    18,
+    8,
+    16,
+    8,
+    14,
+    8,
+    12,
+    8,
+    10,
+    8,
+    8,
+    8,
+    6,
+    8,
+    4,
+    8,
+    2,
+    8,
+    0,
+    8,
+    20,
+    -32,
+    0,
+    0,
+    1,
+    0,
+    20,
+    6,
+    16,
+    0,
+    0,
+    1,
+    0,
+    6,
+    4,
+    0,
+    0,
+    1,
+    0,
+    4,
+    16,
+    0,
+    0,
+    1,
+    0,
+    16,
+    2,
+    0,
+    0,
+    1,
+    0,
+    2,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    2,
+    1,
+    8,
+    2,
+    0,
+    74,
+    0,
+}
+SPVTCA[1]
+MPPEM[]->IL
+SPVTCA[0]
+MPPEM[]->IL
+GTEQ[](ILStack, ILStack)->IL
+WS[](ILStack, 19)
+SVTCA[1]
+MPPEM[]->IL
+SVTCA[0]
+MPPEM[]->IL
+EQ[](ILStack, ILStack)->IL
+WS[](ILStack, 18)
+Call[](55)
+MPPEM[]->IL
+GT[](2047, ILStack)->Synth
+Call[](56)
+MPPEM[]->IL
+LT[](8, ILStack)->IL
+Or[](ILStack, SyntheticStack)->IL
+If(ILStack)
+    InstCtrl[](1, 1)
+EIf
+Call[](56)
+GetInfo[](2)->IL
+ComplexIf(ILStack == 256)
+    InstCtrl[](1, 1)
+    ScanCtrl[](511, SyntheticStack)
+Else
+    RS[](18)->IL
+    If(ILStack)
+        Synth-LoadInt(1)->Synth
+        {
+            1,
+        }
+        ScanCtrl[](303, SyntheticStack)
+        ScanType[]
+    Else
+        Synth-LoadInt(1)->Synth
+        {
+            1,
+        }
+        ScanCtrl[](380, SyntheticStack)
+        ScanType[]
+    EIf
+EIf
+SVTCA[1]
+MPPEM[]->IL
+Mul[]((F26Dot6)192, (F26Dot6)ILStack)->IL(As F26Dot6)
+SVTCA[0]
+MPPEM[]->IL
+Div[]((F26Dot6)ILStack, ILStack)->IL
+Dup[](ILStack)->(IL, IL)
+GTEQ[](246, ILStack)->IL
+Swap[](ILStack, ILStack)->IL
+LTEQ[](266, ILStack)->IL
+And[](ILStack, ILStack)->IL
+WS[](ILStack, 5)
+RTG[]
+SVTCA[0]
+SZPS[](SyntheticStack)
+SRound[](SyntheticStack)
+MIAP[1](SyntheticStack, SyntheticStack)
+RTG[]
+MIAP[1](SyntheticStack, SyntheticStack)
+SRP2[](SyntheticStack)
+MIAP[0](SyntheticStack, SyntheticStack)
+SRP1[](SyntheticStack)
+IP[]
+GC[0](SyntheticStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+MIAP[0](SyntheticStack, SyntheticStack)
+SRP1[](SyntheticStack)
+IP[]
+GC[0](SyntheticStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+MIAP[0](SyntheticStack, SyntheticStack)
+SRP1[](SyntheticStack)
+IP[]
+GC[0](SyntheticStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+MIAP[0](SyntheticStack, SyntheticStack)
+SRP1[](SyntheticStack)
+IP[]
+GC[0](SyntheticStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+MIAP[0](SyntheticStack, SyntheticStack)
+SRP1[](SyntheticStack)
+IP[]
+GC[0](SyntheticStack)->IL(As F26Dot6)
+Add[](ILStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+MIAP[0](SyntheticStack, SyntheticStack)
+SRP1[](SyntheticStack)
+IP[]
+GC[0](SyntheticStack)->IL(As F26Dot6)
+Add[](ILStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+RTG[]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+RTG[]
+SCVTCI[]((F26Dot6)SyntheticStack)
+MPPEM[]->IL
+ComplexIf(150 >= ILStack)
+    SCVTCI[]((F26Dot6)170)
+EIf
+MPPEM[]->IL
+ComplexIf(50 >= ILStack)
+    SCVTCI[]((F26Dot6)255)
+EIf
+MPPEM[]->IL
+GTEQ[](71, ILStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+Not[](SyntheticStack)->IL
+If(ILStack)
+    RCvt[](623)->IL(As F26Dot6)
+    WCvtP[](ILStack, 625)
+    RCvt[](623)->IL(As F26Dot6)
+    WCvtP[](ILStack, 624)
+EIf
+If(SyntheticStack)
+    RCvt[](625)->IL
+    ComplexIf(378 > ILStack)
+        WCvtP[]((F26Dot6)378, 625)
+    EIf
+EIf
+MPPEM[]->IL
+GTEQ[](71, ILStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+Not[](SyntheticStack)->IL
+If(ILStack)
+    RCvt[](624)->IL(As F26Dot6)
+    WCvtP[](ILStack, 34)
+    RCvt[](624)->IL(As F26Dot6)
+    WCvtP[](ILStack, 60)
+EIf
+If(SyntheticStack)
+    RCvt[](34)->IL
+    ComplexIf(435 > ILStack)
+        WCvtP[]((F26Dot6)435, 34)
+    EIf
+EIf
+MPPEM[]->IL
+GTEQ[](76, ILStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+Not[](SyntheticStack)->IL
+If(ILStack)
+    RCvt[](34)->IL(As F26Dot6)
+    WCvtP[](ILStack, 329)
+    RCvt[](34)->IL(As F26Dot6)
+    WCvtP[](ILStack, 34)
+EIf
+If(SyntheticStack)
+    RCvt[](329)->IL
+    ComplexIf(450 > ILStack)
+        WCvtP[]((F26Dot6)450, 329)
+    EIf
+EIf
+MPPEM[]->IL
+GTEQ[](103, ILStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+Not[](SyntheticStack)->IL
+If(ILStack)
+    RCvt[](625)->IL(As F26Dot6)
+    WCvtP[](ILStack, 36)
+    RCvt[](625)->IL(As F26Dot6)
+    WCvtP[](ILStack, 80)
+EIf
+If(SyntheticStack)
+    RCvt[](36)->IL
+    ComplexIf(542 > ILStack)
+        WCvtP[]((F26Dot6)542, 36)
+    EIf
+EIf
+MPPEM[]->IL
+GTEQ[](513, ILStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+Not[](SyntheticStack)->IL
+If(ILStack)
+    RCvt[](34)->IL(As F26Dot6)
+    WCvtP[](ILStack, 271)
+    RCvt[](34)->IL(As F26Dot6)
+    WCvtP[](ILStack, 34)
+EIf
+If(SyntheticStack)
+    RCvt[](271)->IL
+    ComplexIf(3072 > ILStack)
+        WCvtP[]((F26Dot6)3072, 271)
+    EIf
+EIf
+MPPEM[]->IL
+GTEQ[](28, ILStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+Not[](SyntheticStack)->IL
+If(ILStack)
+    RCvt[](37)->IL(As F26Dot6)
+    WCvtP[](ILStack, 37)
+    RCvt[](37)->IL(As F26Dot6)
+    WCvtP[](ILStack, 44)
+EIf
+If(SyntheticStack)
+    RCvt[](37)->IL
+    ComplexIf(55 > ILStack)
+        WCvtP[]((F26Dot6)55, 37)
+    EIf
+EIf
+MPPEM[]->IL
+GTEQ[](171, ILStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+Not[](SyntheticStack)->IL
+If(ILStack)
+    RCvt[](37)->IL(As F26Dot6)
+    WCvtP[](ILStack, 37)
+    RCvt[](37)->IL(As F26Dot6)
+    WCvtP[](ILStack, 35)
+EIf
+If(SyntheticStack)
+    RCvt[](37)->IL
+    ComplexIf(345 > ILStack)
+        WCvtP[]((F26Dot6)345, 37)
+    EIf
+EIf
+MPPEM[]->IL
+GTEQ[](257, ILStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+Not[](SyntheticStack)->IL
+If(ILStack)
+    RCvt[](37)->IL(As F26Dot6)
+    WCvtP[](ILStack, 37)
+    RCvt[](37)->IL(As F26Dot6)
+    WCvtP[](ILStack, 40)
+EIf
+If(SyntheticStack)
+    RCvt[](37)->IL
+    ComplexIf(520 > ILStack)
+        WCvtP[]((F26Dot6)520, 37)
+    EIf
+EIf
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Neg[]((F26Dot6)SyntheticStack)->IL
+WS[](ILStack, SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SVTCA[1]
+RCvt[](99)->IL(As F26Dot6)
+Neg[](ILStack)->IL
+Swap[](ILStack, 100)->IL
+RCvt[](ILStack)->IL(As F26Dot6)
+Add[](ILStack, (F26Dot6)ILStack)->IL
+Swap[](ILStack, 220)->IL
+RCvt[](ILStack)->IL(As F26Dot6)
+Neg[](ILStack)->IL(As F26Dot6)
+Add[](ILStack, (F26Dot6)ILStack)->IL
+Swap[](ILStack, 97)->IL
+RCvt[](ILStack)->IL(As F26Dot6)
+Add[](ILStack, (F26Dot6)ILStack)->IL(As F26Dot6)
+SRound[](139)
+Round[0](ILStack)->IL(As F26Dot6)
+RTG[]
+Div[]((F26Dot6)128, ILStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+Dup[](SyntheticStack)->(Synth, Synth)
+RCvt[](220)->IL(As F26Dot6)
+Neg[](ILStack)->IL
+Swap[](ILStack, 100)->Synth
+RCvt[](SyntheticStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+MIndex[](3)->Synth
+Add[]((F26Dot6)SyntheticStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Div[](ILStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Mul[](ILStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Round[0](ILStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+MIndex[](3)->Synth
+Sub[]((F26Dot6)SyntheticStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Neg[](ILStack)->IL
+Neg[]((F26Dot6)ILStack)->IL(As F26Dot6)
+WCvtP[](ILStack, 220)
+WCvtP[]((F26Dot6)SyntheticStack, 100)
+Dup[](SyntheticStack)->(Synth, Synth)
+RCvt[](99)->IL(As F26Dot6)
+Neg[](ILStack)->IL
+Swap[](ILStack, 97)->Synth
+RCvt[](SyntheticStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+MIndex[](3)->Synth
+Add[]((F26Dot6)SyntheticStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Div[](ILStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Mul[](ILStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Round[0](ILStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+MIndex[](3)->Synth
+Sub[]((F26Dot6)SyntheticStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Neg[](ILStack)->IL
+Neg[]((F26Dot6)ILStack)->IL(As F26Dot6)
+WCvtP[](ILStack, 99)
+WCvtP[]((F26Dot6)SyntheticStack, 97)
+RCvt[](99)->IL
+ComplexIf(0 == ILStack)
+    Neg[]((F26Dot6)64)->IL(As F26Dot6)
+    WCvtP[](ILStack, 99)
+    RCvt[](97)->IL
+    Swap[](ILStack, 64)->IL
+    Sub[]((F26Dot6)ILStack, (F26Dot6)ILStack)->IL(As F26Dot6)
+    WCvtP[](ILStack, 97)
+EIf
+RCvt[](75)->IL(As F26Dot6)
+Neg[](ILStack)->IL
+Swap[](ILStack, 67)->IL
+RCvt[](ILStack)->IL(As F26Dot6)
+Add[](ILStack, (F26Dot6)ILStack)->IL
+Swap[](ILStack, 127)->IL
+RCvt[](ILStack)->IL(As F26Dot6)
+Neg[](ILStack)->IL(As F26Dot6)
+Add[](ILStack, (F26Dot6)ILStack)->IL
+Swap[](ILStack, 166)->IL
+RCvt[](ILStack)->IL(As F26Dot6)
+Add[](ILStack, (F26Dot6)ILStack)->IL(As F26Dot6)
+SRound[](137)
+Round[0](ILStack)->IL(As F26Dot6)
+RTG[]
+Div[]((F26Dot6)128, ILStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+Dup[](SyntheticStack)->(Synth, Synth)
+RCvt[](127)->IL(As F26Dot6)
+Neg[](ILStack)->IL
+Swap[](ILStack, 67)->Synth
+RCvt[](SyntheticStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+MIndex[](3)->Synth
+Add[]((F26Dot6)SyntheticStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Div[](ILStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Mul[](ILStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Round[0](ILStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+MIndex[](3)->Synth
+Sub[]((F26Dot6)SyntheticStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Neg[](ILStack)->IL
+Neg[]((F26Dot6)ILStack)->IL(As F26Dot6)
+WCvtP[](ILStack, 127)
+WCvtP[]((F26Dot6)SyntheticStack, 67)
+Dup[](SyntheticStack)->(Synth, Synth)
+RCvt[](75)->IL(As F26Dot6)
+Neg[](ILStack)->IL
+Swap[](ILStack, 166)->Synth
+RCvt[](SyntheticStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+MIndex[](3)->Synth
+Add[]((F26Dot6)SyntheticStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Div[](ILStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Mul[](ILStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Round[0](ILStack)->IL
+Dup[](ILStack)->(Synth, Synth)
+MIndex[](3)->Synth
+Sub[]((F26Dot6)SyntheticStack, (F26Dot6)SyntheticStack)->IL(As F26Dot6)
+Neg[](ILStack)->IL
+Neg[]((F26Dot6)ILStack)->IL(As F26Dot6)
+WCvtP[](ILStack, 75)
+WCvtP[]((F26Dot6)SyntheticStack, 166)
+RCvt[](75)->IL
+ComplexIf(0 == ILStack)
+    Neg[]((F26Dot6)64)->IL(As F26Dot6)
+    WCvtP[](ILStack, 75)
+    RCvt[](166)->IL
+    Swap[](ILStack, 64)->IL
+    Sub[]((F26Dot6)ILStack, (F26Dot6)ILStack)->IL(As F26Dot6)
+    WCvtP[](ILStack, 166)
+EIf
+MPPEM[]->IL
+GT[](ILStack, SyntheticStack)->IL
+WS[](ILStack, SyntheticStack)
+SVTCA[1]
+MPPEM[]->IL
+ComplexIf(SyntheticStack < ILStack)
+    WS[](0, 8)
+EIf
+RS[](SyntheticStack)->IL
+Not[](ILStack)->IL
+If(ILStack)
+    WS[](0, 8)
+EIf
+Synth-LoadInt(3)->Synth
+{
+    2,
+    11,
+    10,
+}
+RS[](18)->IL
+If(ILStack)
+    Add[]((F26Dot6)SyntheticStack, (F26Dot6)SyntheticStack)->Synth
+Else
+    Pop[](SyntheticStack)
+EIf
+WS[](SyntheticStack, SyntheticStack)
+SZPS[](SyntheticStack)
+SRP0[](SyntheticStack)
+WCvtF[](SyntheticStack, SyntheticStack)
+MIAP[0](SyntheticStack, SyntheticStack)
+RS[](18)->IL
+If(ILStack)
+    Synth-LoadInt(2)->Synth
+    {
+        15137,
+        6270,
+    }
+Else
+    Synth-LoadInt(2)->Synth
+    {
+        1024,
+        424,
+    }
+    Call[](11)
+EIf
+WS[](SyntheticStack, 12)
+WS[](SyntheticStack, 13)
+RS[](18)->IL
+If(ILStack)
+    Synth-LoadInt(2)->Synth
+    {
+        11585,
+        11585,
+    }
+Else
+    Synth-LoadInt(2)->Synth
+    {
+        1024,
+        1024,
+    }
+    Call[](11)
+EIf
+WS[](SyntheticStack, 14)
+WS[](SyntheticStack, 15)
+RS[](18)->IL
+If(ILStack)
+    Synth-LoadInt(2)->Synth
+    {
+        6270,
+        15137,
+    }
+Else
+    Synth-LoadInt(2)->Synth
+    {
+        424,
+        1024,
+    }
+    Call[](11)
+EIf
+WS[](SyntheticStack, 16)
+WS[](SyntheticStack, 17)
+SVTCA[0]
+Call[](SyntheticStack)
+SVTCA[0]
+RTG[]
+RCvt[](SyntheticStack)->IL(As F26Dot6)
+Round[1](ILStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+RCvt[](SyntheticStack)->IL(As F26Dot6)
+Round[1](ILStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+RCvt[](SyntheticStack)->IL(As F26Dot6)
+Round[1](ILStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+RCvt[](SyntheticStack)->IL(As F26Dot6)
+Round[1](ILStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+DeltaC1[]
+DeltaC1[]
+DeltaC1[]
+DeltaC2[]
+DeltaC1[]
+DeltaC1[]
+DeltaC1[]
+DeltaC2[]
+DeltaC3[]
+DeltaC3[]
+Call[](SyntheticStack)
+DeltaC1[]
+DeltaC1[]
+DeltaC2[]
+DeltaC2[]
+DeltaC3[]
+RTG[]
+RCvt[](SyntheticStack)->IL(As F26Dot6)
+Round[1](ILStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+DeltaC1[]
+DeltaC1[]
+DeltaC2[]
+Call[](SyntheticStack)
+MPPEM[]->IL
+GTEQ[](33, ILStack)->IL
+MPPEM[]->IL
+LTEQ[](70, ILStack)->IL
+And[](ILStack, ILStack)->IL
+If(ILStack)
+    RCvt[](60)->IL(As F26Dot6)
+    Add[]((F26Dot6)64, ILStack)->IL(As F26Dot6)
+    WCvtP[](ILStack, 60)
+EIf
+SVTCA[1]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+DeltaC3[]
+DeltaC3[]
+DeltaC3[]
+DeltaC3[]
+DeltaC3[]
+DeltaC3[]
+DeltaC3[]
+DeltaC3[]
+RS[](SyntheticStack)->IL
+If(ILStack)
+    Synth-LoadInt(16)->Synth
+    {
+        191,
+        60,
+        207,
+        60,
+        2,
+        111,
+        60,
+        127,
+        60,
+        143,
+        60,
+        159,
+        60,
+        175,
+        60,
+        5,
+    }
+    DeltaC3[]
+    DeltaC3[]
+EIf
+RS[](SyntheticStack)->IL
+If(ILStack)
+    Synth-LoadInt(18)->Synth
+    {
+        191,
+        34,
+        207,
+        34,
+        2,
+        95,
+        34,
+        111,
+        34,
+        127,
+        34,
+        143,
+        34,
+        159,
+        34,
+        175,
+        34,
+        6,
+    }
+    DeltaC3[]
+    DeltaC3[]
+EIf
+RS[](SyntheticStack)->IL
+Not[](ILStack)->IL
+If(ILStack)
+    Synth-LoadInt(7)->Synth
+    {
+        64,
+        60,
+        159,
+        34,
+        239,
+        34,
+        3,
+    }
+    DeltaC3[]
+EIf
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SVTCA[1]
+DeltaC2[]
+DeltaC2[]
+DeltaC2[]
+DeltaC2[]
+RCvt[](SyntheticStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+DeltaC1[]
+DeltaC1[]
+DeltaC2[]
+DeltaC2[]
+DeltaC3[]
+DeltaC3[]
+RCvt[](SyntheticStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+DeltaC1[]
+RCvt[](SyntheticStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+DeltaC1[]
+DeltaC2[]
+RCvt[](SyntheticStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+DeltaC1[]
+DeltaC2[]
+DeltaC3[]
+DeltaC1[]
+DeltaC1[]
+DeltaC1[]
+DeltaC1[]
+DeltaC1[]
+SVTCA[0]
+DeltaC3[]
+DeltaC3[]
+DeltaC3[]
+DeltaC1[]
+DeltaC3[]
+DeltaC3[]
+DeltaC3[]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+DeltaC3[]
+DeltaC3[]
+DeltaC3[]
+DeltaC3[]
+Call[](SyntheticStack)
+DeltaC3[]
+Call[](SyntheticStack)
+RS[](SyntheticStack)->IL
+If(ILStack)
+    Synth-LoadInt(32)->Synth
+    {
+        99,
+        813,
+        1,
+        3,
+        813,
+        19,
+        813,
+        35,
+        813,
+        51,
+        813,
+        83,
+        813,
+        5,
+        195,
+        813,
+        211,
+        813,
+        227,
+        813,
+        243,
+        813,
+        4,
+        131,
+        813,
+        147,
+        813,
+        163,
+        813,
+        179,
+        813,
+        4,
+    }
+    RCvt[](813)->IL(As F26Dot6)
+    RTG[]
+    Round[1](ILStack)->IL(As F26Dot6)
+    WCvtP[](ILStack, 813)
+    DeltaC2[]
+    DeltaC2[]
+    DeltaC3[]
+    DeltaC3[]
+EIf
+Call[](SyntheticStack)
+RS[](SyntheticStack)->IL
+If(ILStack)
+    Synth-LoadInt(43)->Synth
+    {
+        24,
+        818,
+        48,
+        53,
+        50,
+        56,
+        818,
+        97,
+        102,
+        50,
+        56,
+        818,
+        83,
+        90,
+        50,
+        56,
+        818,
+        69,
+        78,
+        50,
+        56,
+        818,
+        60,
+        65,
+        50,
+        24,
+        818,
+        63,
+        51,
+        10,
+        818,
+        1,
+        186,
+        818,
+        202,
+        818,
+        218,
+        818,
+        234,
+        818,
+        250,
+        818,
+        5,
+    }
+    RCvt[](818)->IL(As F26Dot6)
+    RTG[]
+    Round[1](ILStack)->IL(As F26Dot6)
+    WCvtP[](ILStack, 818)
+    DeltaC2[]
+    DeltaC3[]
+    Call[](SyntheticStack)
+    Call[](SyntheticStack)
+    Call[](SyntheticStack)
+    Call[](SyntheticStack)
+    Call[](SyntheticStack)
+    Call[](SyntheticStack)
+EIf
+DeltaC1[]
+SVTCA[0]
+DeltaC1[]
+Call[](SyntheticStack)
+SVTCA[1]
+Call[](SyntheticStack)
+DeltaC3[]
+DeltaC3[]
+SVTCA[0]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+DeltaC2[]
+SVTCA[0]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+DeltaC1[]
+Call[](SyntheticStack)
+DeltaC2[]
+SVTCA[1]
+Call[](SyntheticStack)
+SVTCA[0]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SVTCA[1]
+DeltaC1[]
+DeltaC1[]
+DeltaC1[]
+DeltaC2[]
+DeltaC2[]
+DeltaC1[]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SVTCA[0]
+DeltaC1[]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SVTCA[0]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SVTCA[1]
+DeltaC1[]
+DeltaC2[]
+DeltaC1[]
+Call[](SyntheticStack)
+SVTCA[1]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SVTCA[1]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SVTCA[0]
+SVTCA[1]
+DeltaC1[]
+DeltaC3[]
+SVTCA[0]
+DeltaC1[]
+DeltaC1[]
+SVTCA[0]
+RCvt[](SyntheticStack)->IL(As F26Dot6)
+Round[1](ILStack)->IL(As F26Dot6)
+WCvtP[](ILStack, SyntheticStack)
+SVTCA[0]
+DeltaC1[]
+DeltaC1[]
+SVTCA[1]
+DeltaC1[]
+DeltaC2[]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+DeltaC1[]
+Call[](SyntheticStack)
+SVTCA[0]
+DeltaC1[]
+Call[](SyntheticStack)
+DeltaC3[]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+DeltaC1[]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Synth-Return->Synth

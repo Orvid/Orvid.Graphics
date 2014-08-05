@@ -1,0 +1,32 @@
+FDef
+    Dup[](SyntheticStack)->(IL, IL)
+    RCvt[](ILStack)->IL
+    Swap[](ILStack, ILStack)->IL
+    Dup[](ILStack)->(IL, IL)
+    WCvtP[]((F26Dot6)205, ILStack)
+    Swap[](ILStack, ILStack)->Synth
+    Dup[](SyntheticStack)->(Synth, Synth)
+    ComplexIf(SyntheticStack <= 346)
+        Swap[](SyntheticStack, SyntheticStack)->IL
+        Dup[](ILStack)->(IL, IL)
+        WCvtP[]((F26Dot6)141, ILStack)
+        Swap[](ILStack, ILStack)->Synth
+    EIf
+    Dup[](SyntheticStack)->(Synth, Synth)
+    ComplexIf(SyntheticStack <= 237)
+        Swap[](SyntheticStack, SyntheticStack)->IL
+        Dup[](ILStack)->(IL, IL)
+        WCvtP[]((F26Dot6)77, ILStack)
+        Swap[](ILStack, ILStack)->Synth
+    EIf
+    Dup[](SyntheticStack)->(Synth, Synth)
+    ComplexIf(SyntheticStack <= 144)
+        Swap[](SyntheticStack, SyntheticStack)->IL
+        Dup[](ILStack)->(IL, IL)
+        WCvtP[]((F26Dot6)13, ILStack)
+        Swap[](ILStack, ILStack)->Synth
+    EIf
+    Pop[](SyntheticStack)
+    Pop[](SyntheticStack)
+EndF
+Synth-Return->Synth

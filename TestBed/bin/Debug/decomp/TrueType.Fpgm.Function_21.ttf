@@ -1,0 +1,35 @@
+FDef
+    RS[](18)->IL
+    If(ILStack)
+        SDPVTL[1](SyntheticStack, SyntheticStack)
+        RCvt[](SyntheticStack)->Synth
+        Call[](17)
+        WCvtP[]((F26Dot6)SyntheticStack, 23)
+        ROff[]
+        MIRP[0010](23, SyntheticStack)
+    Else
+        SPVTCA[1]
+        Roll[](SyntheticStack, SyntheticStack, SyntheticStack)->IL
+        RCvt[](ILStack)->IL(As F26Dot6)
+        RTG[]
+        Round[1](ILStack)->IL
+        Dup[](ILStack)->(IL, IL)
+        WCvtP[]((F26Dot6)ILStack, 23)
+        Roll[](ILStack, ILStack, ILStack)->IL
+        Roll[](ILStack, ILStack, ILStack)->IL
+        SDPVTL[1](ILStack, ILStack)
+        Dup[](ILStack)->(Synth, Synth)
+        ComplexIf(SyntheticStack <= 160)
+            Call[](17)
+            WCvtP[]((F26Dot6)SyntheticStack, 23)
+            ROff[]
+            MIRP[0010](23, SyntheticStack)
+        Else
+            Pop[](SyntheticStack)
+            ROff[]
+            MIRP[0010](23, SyntheticStack)
+        EIf
+    EIf
+    RTG[]
+EndF
+Synth-Return->Synth

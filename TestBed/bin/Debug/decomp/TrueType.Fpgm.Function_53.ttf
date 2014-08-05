@@ -1,0 +1,10 @@
+FDef
+    MPPEM[]->IL
+    ComplexIf(SyntheticStack == ILStack)
+        ShPix[]((F26Dot6)SyntheticStack, ...)
+    Else
+        Pop[](SyntheticStack)
+        Pop[](SyntheticStack)
+    EIf
+EndF
+Synth-Return->Synth

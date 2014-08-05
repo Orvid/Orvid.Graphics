@@ -1,0 +1,9 @@
+FDef
+    MIAP[0](SyntheticStack, SyntheticStack)
+    Synth-LoadInt(1)->Synth
+    {
+        42,
+    }
+    LoopCall[]
+EndF
+Synth-Return->Synth

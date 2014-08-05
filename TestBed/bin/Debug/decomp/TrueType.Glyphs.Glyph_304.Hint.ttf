@@ -1,0 +1,194 @@
+Synth-LoadInt(116)->Synth
+{
+    70,
+    39,
+    1,
+    196,
+    49,
+    1,
+    198,
+    4,
+    199,
+    17,
+    196,
+    36,
+    3,
+    122,
+    13,
+    122,
+    39,
+    139,
+    13,
+    3,
+    11,
+    38,
+    10,
+    40,
+    2,
+    47,
+    -16,
+    39,
+    29,
+    38,
+    16,
+    0,
+    0,
+    20,
+    32,
+    24,
+    37,
+    28,
+    28,
+    5,
+    48,
+    239,
+    11,
+    1,
+    11,
+    11,
+    5,
+    42,
+    42,
+    48,
+    15,
+    37,
+    5,
+    7,
+    37,
+    37,
+    48,
+    11,
+    0,
+    18,
+    64,
+    26,
+    1,
+    26,
+    26,
+    45,
+    51,
+    8,
+    -64,
+    24,
+    28,
+    52,
+    8,
+    8,
+    31,
+    45,
+    1,
+    96,
+    45,
+    1,
+    45,
+    45,
+    51,
+    34,
+    20,
+    13,
+    13,
+    6,
+    85,
+    18,
+    20,
+    13,
+    13,
+    6,
+    85,
+    2,
+    -16,
+    15,
+    16,
+    6,
+    85,
+    95,
+    18,
+    111,
+    18,
+    2,
+    159,
+    18,
+    1,
+    18,
+    268,
+    240,
+    2,
+    1,
+    2,
+    2,
+}
+MDAP[1](51)
+MIRP[0111](818, 34)
+ShP[1]
+MDAP[1](SyntheticStack)
+DeltaP1[]
+MIRP[0111](SyntheticStack, SyntheticStack)
+DeltaP1[]
+DeltaP2[]
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+Call[](SyntheticStack)
+SRP1[](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+DeltaP1[]
+DeltaP3[]
+ShP[1]
+MDAP[1](SyntheticStack)
+Call[](SyntheticStack)
+SRP1[](SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+MDAP[1](SyntheticStack)
+DeltaP1[]
+SRP1[](SyntheticStack)
+ShP[1]
+SVTCA[0]
+MIAP[1](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIAP[1](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+SRP1[](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+SRP1[](SyntheticStack)
+ShP[1]
+MDAP[1](SyntheticStack)
+DeltaP2[]
+SRP1[](SyntheticStack)
+SRP2[](SyntheticStack)
+IP[]
+MDAP[1](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+IP[]
+IP[]
+RTHG[]
+IP[]
+MDAP[1](SyntheticStack)
+SVTCA[1]
+ShPix[]((F26Dot6)SyntheticStack, ...)
+ShPix[]((F26Dot6)SyntheticStack, ...)
+ShPix[]((F26Dot6)SyntheticStack, ...)
+RS[](2)->IL
+ComplexIf(6 == ILStack)
+    Synth-LoadInt(5)->Synth
+    {
+        32,
+        42,
+        79,
+        11,
+        2,
+    }
+    SVTCA[0]
+    DeltaP1[]
+EIf
+IUP[1]
+IUP[0]
+SVTCA[1]
+DeltaP2[]
+DeltaP1[]
+DeltaP1[]
+DeltaP1[]
+SVTCA[0]
+DeltaP2[]
+Synth-Return->Synth

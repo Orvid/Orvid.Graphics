@@ -1,0 +1,122 @@
+Synth-LoadInt(74)->Synth
+{
+    112,
+    65,
+    1,
+    104,
+    35,
+    120,
+    35,
+    136,
+    35,
+    3,
+    5,
+    61,
+    61,
+    852,
+    5,
+    509,
+    58,
+    834,
+    41,
+    834,
+    8,
+    834,
+    24,
+    834,
+    12,
+    324,
+    18,
+    324,
+    47,
+    324,
+    53,
+    324,
+    50,
+    1,
+    34,
+    1,
+    50,
+    6,
+    58,
+    103,
+    8,
+    103,
+    41,
+    103,
+    24,
+    103,
+    61,
+    207,
+    50,
+    304,
+    36,
+    324,
+    5,
+    207,
+    15,
+    304,
+    30,
+    324,
+    0,
+    103,
+    1,
+    103,
+    32,
+    64,
+    33,
+    1,
+    33,
+    187,
+    64,
+    65,
+    149,
+    33,
+    156,
+    164,
+}
+Call[](24)
+Call[](SyntheticStack)
+RTHG[]
+MIRP[1010](SyntheticStack, SyntheticStack)
+DeltaP1[]
+SMD[]((F26Dot6)SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0011](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0011](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0011](SyntheticStack, SyntheticStack)
+SVTCA[0]
+MIAP[1](SyntheticStack, SyntheticStack)
+RTG[]
+MIAP[1](SyntheticStack, SyntheticStack)
+MDAP[1](SyntheticStack)
+RTHG[]
+SRP0[](SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0011](SyntheticStack, SyntheticStack)
+MIRP[0011](SyntheticStack, SyntheticStack)
+MIRP[0011](SyntheticStack, SyntheticStack)
+MIRP[0011](SyntheticStack, SyntheticStack)
+MIRP[0111](SyntheticStack, SyntheticStack)
+MIRP[0010](SyntheticStack, SyntheticStack)
+SVTCA[0]
+SRP0[](SyntheticStack)
+AlignRP[]
+IUP[1]
+IUP[0]
+SVTCA[0]
+DeltaP2[]
+SVTCA[1]
+DeltaP1[]
+Synth-Return->Synth

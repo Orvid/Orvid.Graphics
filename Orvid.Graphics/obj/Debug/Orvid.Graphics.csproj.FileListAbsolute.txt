@@ -1,0 +1,16 @@
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\bin\Debug\Orvid.Graphics.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\bin\Debug\Orvid.Graphics.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\bin\Debug\Orvid.Compression.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\bin\Debug\Orvid.Config.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\bin\Debug\Orvid.Extensions.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\bin\Debug\Orvid.Graphics.Dependancies.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\bin\Debug\Orvid.TrueType.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\bin\Debug\Orvid.Compression.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\bin\Debug\Orvid.Config.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\bin\Debug\Orvid.Config.xml
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\bin\Debug\Orvid.Extensions.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\bin\Debug\Orvid.Graphics.Dependancies.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\bin\Debug\Orvid.TrueType.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\obj\Debug\Orvid.Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\obj\Debug\Orvid.Graphics.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Graphics\obj\Debug\Orvid.Graphics.pdb

@@ -1,0 +1,8 @@
+C:\Users\Orvid\Desktop\Orvid\Orvid.TrueType\bin\Debug\Orvid.TrueType.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.TrueType\bin\Debug\Orvid.TrueType.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.TrueType\bin\Debug\Orvid.Config.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.TrueType\bin\Debug\Orvid.Config.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.TrueType\bin\Debug\Orvid.Config.xml
+C:\Users\Orvid\Desktop\Orvid\Orvid.TrueType\obj\Debug\Orvid.TrueType.csprojResolveAssemblyReference.cache
+C:\Users\Orvid\Desktop\Orvid\Orvid.TrueType\obj\Debug\Orvid.TrueType.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.TrueType\obj\Debug\Orvid.TrueType.pdb

@@ -1,0 +1,4 @@
+C:\Users\Orvid\Desktop\Orvid\Orvid.Compression\bin\Debug\Orvid.Compression.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Compression\bin\Debug\Orvid.Compression.pdb
+C:\Users\Orvid\Desktop\Orvid\Orvid.Compression\obj\Debug\Orvid.Compression.dll
+C:\Users\Orvid\Desktop\Orvid\Orvid.Compression\obj\Debug\Orvid.Compression.pdb
